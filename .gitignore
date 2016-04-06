@@ -30,3 +30,10 @@ proguard/
 
 # Android Studio captures folder
 captures/
+/Smali-Sample/HelloWorld/.idea/compiler.xml
+/Smali-Sample/HelloWorld/.idea/copyright/profiles_settings.xml
+/Smali-Sample/HelloWorld/.idea/gradle.xml
+/Smali-Sample/HelloWorld/.idea/misc.xml
+/Smali-Sample/HelloWorld/.idea/modules.xml
+/Smali-Sample/HelloWorld/.idea/runConfigurations.xml
+/Smali-Sample/HelloWorld/.idea/vcs.xml
