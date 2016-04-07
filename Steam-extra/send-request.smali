@@ -45,6 +45,9 @@
     .local v1, "request":Lcom/android/volley/Request;
     iget-object v3, p0, Lcom/valvesoftware/android/steam/community/SteamCommunityApplication;->requestQueue:Lcom/android/volley/RequestQueue;
 
+    .line 666
+    invoke-static {v1}, Lcom/valvesoftware/android/steam/community/SteamCommunityApplication;->printVolley(Lcom/android/volley/Request;)V
+
     invoke-virtual {v3, v1}, Lcom/android/volley/RequestQueue;->add(Lcom/android/volley/Request;)Lcom/android/volley/Request;
 
     .line 121
