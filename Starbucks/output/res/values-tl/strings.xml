@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Mag-navigate patungo sa home</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Mag-navigate pataas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Higit pang mga opsyon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Tapos na</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Tingnan lahat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Pumili ng isang app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">I-clear ang query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Query sa paghahanap</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Maghanap</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Isumite ang query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Paghahanap gamit ang boses</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Ibahagi sa/kay</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Ibahagi sa/kay %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Ang isang application ay nangangailangan ng update sa Android Wear app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Hindi gagana ang app na ito hanggang sa i-update mo ang Android Wear app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">I-update ang Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Hindi gagana ang app na ito maliban kung papaganahin mo ang mga serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Paganahin ang Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Hiniling ng %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Kumuha ng Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Hindi tatakbo ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Kumuha ng mga serbisyo ng Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Di-wasto ang Account</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">May Error sa Network</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Kailangan ng application na i-install ang Mga Serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Ang mga serbisyo ng Google Play, kung saan nakadepende ang ilan sa iyong mga application, ay hindi sinusuportahan ng iyong device. Mangyaring makipag-ugnay sa manufacturer para sa tulong.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Mga serbisyo ng Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">I-update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Hindi gagana ang app na ito maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">I-update ang mga serbisyo ng Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Buksan sa telepono</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Sign in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Mag-sign in sa Google</string>
+</resources>

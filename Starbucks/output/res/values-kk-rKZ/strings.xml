@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Негізгі бетте қозғалу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Жоғары қозғалу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Басқа опциялар</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Орындалды</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Барлығын көру</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Қолданбаны таңдау</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Сұрақты жою</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Сұрақты іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Сұрақты жіберу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Дауыс арқылы іздеу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Бөлісу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s бөлісу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Қолданба Android Wear қолданбасын жаңартуды қажет етеді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Бұл қолданба Android Wear қолданбасын жаңартқанша іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear қолданбасын жаңарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play қызметтерін қосу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Бұл қолданба Google Play қызметтерін қосқанша жұмыс істемейді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play қызметтерін қосу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s арқылы сұралған</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play қызметтерін алу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Телефоныңызда жоқ Google Play қызметтерінсіз бұл қолданба іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Планшетіңізде жоқ Google Play қызметтерінсіз бұл қолданба іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play қызметтерін алу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Бұл құрылғыда көрсетілген тіркелгі жоқ. Басқа тіркелгіні таңдаңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Жарамсыз тіркелгі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Қолданба Google Play қызметтерін қосуды қажет етеді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play қызметтеріне қосылу үшін деректер байланысы талап етіледі.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Желі қатесі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Қолданба Google Play қызметтерін орнатуды талап етеді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Қолданба Google Play қызметтерін жаңартуды талап етеді.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play қызметтерінің қатесі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play қызметтерімен белгісіз мәселе.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Кейбір қолданбаларыңыз үшін қажет Google Play қызметтеріне құрылғыңыз қолдау көрсетпейді. Көмек алу үшін өндірушіге хабарласыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play қызметтері</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Жаңарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Бұл қолданба Google Play қызметтерін жаңартқанша іске қосылмайды.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play қызметтерін жаңарту</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Телефонда ашу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Кіру</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google арқылы кіру</string>
+</resources>

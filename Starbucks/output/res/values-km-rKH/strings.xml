@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">រកមើល​ទៅ​ដើម</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">រកមើល​ឡើងលើ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">ជម្រើស​ច្រើន​ទៀត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">រួចរាល់</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">មើល​ទាំងអស់</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">ជ្រើស​កម្មវិធី​​</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">សម្អាត​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ស្វែងរក​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ស្វែងរក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ដាក់​​​ស្នើ​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">ការស្វែងរក​សំឡេង</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">ចែករំលែក​ជាមួយ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">ចែករំលែក​ជាមួយ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">កម្មវិធី​ទាមទារ​បច្ចុប្បន្នភាព​ចំពោះ​កម្មវិធី Android Wear ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ លុះ​ត្រា​តែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​​កម្មវិធី Android Wear ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">ធ្វើ​បច្ចុប្បន្នភាព Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">បាន​ស្នើ​ដោយ %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">គណនី​មិន​ត្រឹមត្រូវ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">កម្មវិធី​ទាមទារ​ឲ្យ​បើក​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">បាន​ទាមទារ​ការ​តភ្ជាប់​ទិន្នន័យ ដើម្បី​ភ្ជាប់​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">កំហុស​​បណ្ដាញ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">កម្មវិធី​ទាមទារ​ឲ្យ​ដំឡើង​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">កម្មវិធី​ទាមទារ​​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម ​Google កម្សាន្ត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">មិន​ស្គាល់​បញ្ហា​ជាមួយ​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">សេវាកម្ម​កម្សាន្ត Google អាស្រ័យ​លើ​កម្មវិធី​របស់​អ្នក មិន​ត្រូវ​បាន​គាំទ្រ​ដោយ​ឧបករណ៍​របស់​អ្នក។ សូម​ទាក់ទង​ក្រុមហ៊ុន​ផលិត​សម្រាប់​ជំនួយ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">សេវាកម្ម​កម្សាន្ត​ Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">ធ្វើ​បច្ចុប្បន្នភាព</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">បើក​តាម​ទូរស័ព្ទ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">ចូល</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">ចូល​ដោយ​ប្រើ​ Google</string>
+</resources>

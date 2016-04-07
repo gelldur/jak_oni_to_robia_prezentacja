@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="abc_btn_check_material">  .xml</item>
+    <item type="drawable" name="abc_btn_radio_material">  .xml</item>
+    <item type="drawable" name="abc_cab_background_internal_bg">\u000b\u001d\u0009.xml</item>
+    <item type="drawable" name="abc_cab_background_top_material">  .xml</item>
+    <item type="drawable" name="abc_edit_text_material">　 .xml</item>
+    <item type="drawable" name="abc_item_background_holo_dark">　.xml</item>
+    <item type="drawable" name="abc_item_background_holo_light">" \u001d\u0009.xml"</item>
+    <item type="drawable" name="abc_list_selector_background_transition_holo_dark">\u000c\u0009.xml</item>
+    <item type="drawable" name="abc_list_selector_background_transition_holo_light">\u000c\u0009\u000b.xml</item>
+    <item type="drawable" name="abc_list_selector_holo_dark">\u001c \u0009.xml</item>
+    <item type="drawable" name="abc_list_selector_holo_light">\u001c\u000b.xml</item>
+    <item type="drawable" name="abc_switch_thumb_material">  .xml</item>
+    <item type="drawable" name="abc_tab_indicator_material">  \u0009.xml</item>
+    <item type="drawable" name="abc_textfield_search_material">\u001f\u000b.xml</item>
+    <item type="drawable" name="action_title_background">\u000c\u001f.xml</item>
+    <item type="drawable" name="arrow"> \u0009</item>
+    <item type="drawable" name="button_overlay_background">　 \u0009.xml</item>
+    <item type="drawable" name="button_overlay_text_color"> \u001c.xml</item>
+    <item type="drawable" name="button_plum_background">  \u0009.xml</item>
+    <item type="drawable" name="button_plum_text_color">\u001f .xml</item>
+    <item type="drawable" name="button_warm_gray_light_background">\u001f .xml</item>
+    <item type="drawable" name="button_warm_gray_light_text_color">\u0009\u001f\u0009.xml</item>
+    <item type="drawable" name="card1">  </item>
+    <item type="drawable" name="common_signin_btn_icon_dark">\u000c.xml</item>
+    <item type="drawable" name="common_signin_btn_icon_light"> \u0009.xml</item>
+    <item type="drawable" name="common_signin_btn_text_dark"> 　.xml</item>
+    <item type="drawable" name="common_signin_btn_text_light"> \u0009\u0009.xml</item>
+    <item type="drawable" name="divider">\u001e.xml</item>
+    <item type="drawable" name="drawer_item_background">  .xml</item>
+    <item type="drawable" name="ic_action_bar_history">\u000b\u000c\u0009</item>
+    <item type="drawable" name="ic_action_bar_list">\u001d </item>
+    <item type="drawable" name="ic_action_bar_refresh">\u001e \u0009</item>
+    <item type="drawable" name="ic_action_bar_reload">  </item>
+    <item type="drawable" name="ic_action_bar_share">  </item>
+    <item type="drawable" name="ic_drawer">\u000b\u000b</item>
+    <item type="drawable" name="ic_history_birthday">\u000b　\u0009</item>
+    <item type="drawable" name="ic_history_earned_reward">\u001e </item>
+    <item type="drawable" name="ic_history_empty_star">  </item>
+    <item type="drawable" name="ic_history_gift"> \u001f\u0009</item>
+    <item type="drawable" name="ic_history_offer">  \u0009</item>
+    <item type="drawable" name="ic_history_star">  </item>
+    <item type="drawable" name="ic_history_tipping">  \u0009</item>
+    <item type="drawable" name="ic_history_transaction"> 　\u0009</item>
+    <item type="drawable" name="ic_list_empty_star">  </item>
+    <item type="drawable" name="ic_option_spinner_triangle_selected"> \u001c</item>
+    <item type="drawable" name="ic_option_spinner_triangle_unselected">  \u0009</item>
+    <item type="drawable" name="ic_pay_add_brown">\u0009 \u0009</item>
+    <item type="drawable" name="ic_pay_add_green">\u001f\u001e\u0009</item>
+    <item type="drawable" name="ic_pay_auto_reload">  </item>
+    <item type="drawable" name="ic_pay_card_payu">  \u0009</item>
+    <item type="drawable" name="ic_pay_card_simple_credit">\u0009 </item>
+    <item type="drawable" name="ic_pay_history"> \u0009\u0009</item>
+    <item type="drawable" name="ic_pay_indicator_auto_reload"> \u001f\u0009</item>
+    <item type="drawable" name="ic_rewards_birthday_trimmed"> \u000b\u0009</item>
+    <item type="drawable" name="ic_rewards_earned_reward"> \u000c</item>
+    <item type="drawable" name="ic_rewards_star">　 \u0009</item>
+    <item type="drawable" name="ic_rewards_star_gold">  </item>
+    <item type="drawable" name="ic_search">\u001f </item>
+    <item type="drawable" name="ic_search_clean_entry"> \u0009\u0009</item>
+    <item type="drawable" name="ic_search_clear_entry"> \u000c\u0009</item>
+    <item type="drawable" name="ic_search_insert_arrow">\u0009 \u0009</item>
+    <item type="drawable" name="ic_stores_access_location"> \u000c\u0009</item>
+    <item type="drawable" name="ic_stores_detail_phone">\u001d </item>
+    <item type="drawable" name="ic_stores_list_empty_pin"> </item>
+    <item type="drawable" name="ic_stores_map_current_position">\u000c \u0009</item>
+    <item type="drawable" name="ic_stores_map_item">  </item>
+    <item type="drawable" name="ic_stores_map_item_closed">  \u0009</item>
+    <item type="drawable" name="ic_stores_map_pin">　\u001f\u0009</item>
+    <item type="drawable" name="ic_stores_map_pin_closed">\u001c \u0009</item>
+    <item type="drawable" name="inline_link_text_color"> \u000b.xml</item>
+    <item type="drawable" name="input_background"> \u000c.xml</item>
+    <item type="drawable" name="input_background_error"> \u001f\u0009.xml</item>
+    <item type="drawable" name="input_text_color">\u000c \u0009.xml</item>
+    <item type="drawable" name="list_view_divider">"  \u0009.xml"</item>
+    <item type="drawable" name="option_spinner_background">\u0009　\u0009.xml</item>
+    <item type="drawable" name="pay_code_back_of_card"> \u0009\u0009</item>
+    <item type="drawable" name="pay_photo">\u001d\u001f\u0009</item>
+    <item type="drawable" name="progress_dot"> \u001f\u0009.xml</item>
+    <item type="drawable" name="radio_button">　 .xml</item>
+    <item type="drawable" name="radio_checked_button">\u0009 </item>
+    <item type="drawable" name="radio_pager_button"> \u000c\u0009.xml</item>
+    <item type="drawable" name="radio_pager_button_1">\u000c </item>
+    <item type="drawable" name="radio_pager_button_checked_1">\u001e \u0009</item>
+    <item type="drawable" name="radio_switch_2_text_color">\u000b.xml</item>
+    <item type="drawable" name="radio_switch_background">  .xml</item>
+    <item type="drawable" name="radio_switch_on_background">  \u0009.xml</item>
+    <item type="drawable" name="radio_unchecked_button">\u001f </item>
+    <item type="drawable" name="rewards_cup">  \u0009</item>
+    <item type="drawable" name="rewards_cup_lid">  </item>
+    <item type="drawable" name="rewards_cup_lid_bottom"> \u001d</item>
+    <item type="drawable" name="rewards_cup_lid_shadow"> \u000b</item>
+    <item type="drawable" name="rewards_photo">\u001f \u0009</item>
+    <item type="drawable" name="search_widget_list_view_icon_background"> \u001f.xml</item>
+    <item type="drawable" name="select_activated">  </item>
+    <item type="drawable" name="select_background"> \u001d\u0009.xml</item>
+    <item type="drawable" name="select_background_error">\u001d \u0009.xml</item>
+    <item type="drawable" name="select_default">  </item>
+    <item type="drawable" name="select_error">\u001e\u001e\u0009</item>
+    <item type="drawable" name="settings_photo"> \u001c\u0009</item>
+    <item type="drawable" name="stores_button_2_background"> \u001f\u0009.xml</item>
+    <item type="drawable" name="stores_button_background"> \u000c\u0009.xml</item>
+    <item type="drawable" name="textfield_activated"> </item>
+    <item type="drawable" name="textfield_default">\u000b </item>
+    <item type="drawable" name="textfield_error">\u000c \u0009</item>
+    <item type="drawable" name="textfield_spinner_activated">\u0009　\u0009</item>
+    <item type="drawable" name="textfield_spinner_default">\u0009 </item>
+    <item type="drawable" name="textfield_spinner_error">  \u0009</item>
+    <item type="drawable" name="welcome">  </item>
+    <item type="drawable" name="widget_selector">  \u0009.xml</item>
+    <item type="drawable" name="transaction_icon_1">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_2">@drawable/ic_history_tipping</item>
+    <item type="drawable" name="transaction_icon_3">@drawable/ic_history_star</item>
+    <item type="drawable" name="transaction_icon_4">@drawable/ic_history_birthday</item>
+    <item type="drawable" name="transaction_icon_5">@drawable/ic_history_earned_reward</item>
+    <item type="drawable" name="transaction_icon_6">@drawable/ic_history_gift</item>
+    <item type="drawable" name="transaction_icon_7">@drawable/ic_history_offer</item>
+    <item type="drawable" name="transaction_icon_ADJUST">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_CRM_OPEN">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_CRM_OTHER_TRANSACTION">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_POS_CRM_REDEMPTION_PURCHASE">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_POS_CRM_RELOAD">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_POS_MANUAL_REDEMPTION_PURCHASE">@drawable/ic_history_transaction</item>
+    <item type="drawable" name="transaction_icon_POS_POINTS_ISSUANCE">@drawable/ic_history_star</item>
+    <item type="drawable" name="transaction_icon_REWARD_BIRTH">@drawable/ic_history_birthday</item>
+    <item type="drawable" name="transaction_icon_REWARD_LOYALTY">@drawable/ic_history_earned_reward</item>
+    <item type="drawable" name="transaction_icon_REWARD_WELCOME">@drawable/ic_history_earned_reward</item>
+    <item type="drawable" name="transaction_icon_exception">@drawable/ic_history_transaction</item>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060000">
+        <item>Žena</item>
+        <item>Muž</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060001">
+        <item>Platba</item>
+        <item>Kavárny</item>
+        <item>Odměny</item>
+        <item>Nastavení</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060002">
+        <item>Hlavní město Praha</item>
+        <item>Jihočeský kraj</item>
+        <item>Jihomoravský kraj</item>
+        <item>Karlovarský kraj</item>
+        <item>Královéhradecký kraj</item>
+        <item>Liberecký kraj</item>
+        <item>Moravskoslezský kraj</item>
+        <item>Olomoucký kraj</item>
+        <item>Pardubický kraj</item>
+        <item>Plzeňský kraj</item>
+        <item>Středočeský kraj</item>
+        <item>Ústecký kraj</item>
+        <item>kraj Vysočina</item>
+        <item>Zlínský kraj</item>
+    </string-array>
+    <string-array name="reward_NEW_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujeme, brzy dostanete svou odměnu.</item>
+        <item></item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Dárek k narozeninám</item>
+        <item>(dostupné)</item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH_details">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Všechno nejlepší! Získejte svůj dárek.</item>
+        <item>Pro získání odměny informujte baristu, že chcete využít nabídky vynikajícího Muffinu nebo nápoje zdarma. Stiskněte ikonu níže a načtěte kód. Více informací naleznete v sekci – více o odměnách.</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY">
+        <item>ic_rewards_earned_reward</item>
+        <item>Štastný 10. nápoj</item>
+        <item>(dostupné)</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujeme. Získali jste 10 Hvězd. Váš další nápoj jde na nás.</item>
+        <item>Pro uplatnění informujte baristu o kupónu na nápoj zdarma, klikněte na symbol níže a naskenujte QR kupónu z Vašeho mobilního zařízení. Pro více informací klikněte na Více o odměnách.</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME">
+        <item>ic_rewards_earned_reward</item>
+        <item>Odměna k dispozici</item>
+        <item>(dostupné)</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujeme! Získáváte vynikající Muffin.</item>
+        <item>Pro získání odměny informujte baristu, že chcete využít nabídku vynikajícího Muffinu. Stiskněte ikonu níže a načtěte kód. Více informací naleznete v sekci – více o odměnách.</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f06000a">
+        <item>Jaké je rodné příjmení vaší matky?</item>
+        <item>Jaká byla v dětství vaše přezdívka?</item>
+        <item>Kdo byl vaším dětským hrdinou ?</item>
+    </string-array>
+    <integer-array name="APKTOOL_DUMMYVAL_0x7f06000b">
+        <item>300</item>
+        <item>500</item>
+        <item>700</item>
+        <item>1200</item>
+    </integer-array>
+</resources>

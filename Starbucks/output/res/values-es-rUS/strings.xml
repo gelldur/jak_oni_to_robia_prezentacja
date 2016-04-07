@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navegar a la página principal</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navegar hacia arriba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Más opciones</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Listo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Ver todo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Elige una aplicación.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Eliminar la consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Consulta de búsqueda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Búsqueda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Enviar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Búsqueda por voz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Compartir con</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Compartir con %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Hay una aplicación que requiere una actualización para la aplicación Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Esta aplicación no se ejecutará, a menos que actualices la aplicación Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Actualizar Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Activar Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Esta aplicación no funcionará si no activas Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Activar Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Solicitada por %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Descargar Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Esta aplicación no se ejecutará si no instalasGoogle Play Services en tu dispositivo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Esta aplicación no se ejecutará si no instalas Google Play Services en tu tablet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Obtener Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">La cuenta especificada no existe en este dispositivo. Elige otra cuenta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Cuenta no válida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Una aplicación requiere que se habilite Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Se necesita una conexión de datos para establecer conexión con Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Error de red</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Una aplicación requiere que se instale Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Una aplicación requiere que se actualice Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Error de Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Error desconocido relacionado con Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play Services, del cual dependen algunas de tus aplicaciones, no es compatible con tu dispositivo. Comunícate con el fabricante para obtener ayuda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Actualizar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Esta aplicación no se ejecutará si no actualizas Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Actualizar Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Abrir en el teléfono</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Acceder</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Acceder con Google</string>
+</resources>

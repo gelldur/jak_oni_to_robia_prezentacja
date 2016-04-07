@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Eiti į pagrindinį puslapį</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Eiti į viršų</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Daugiau parinkčių</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Atlikta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Peržiūrėti viską</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Pasirinkti programą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Išvalyti užklausą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Paieškos užklausa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Paieška</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Pateikti užklausą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Paieška balsu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Bendrinti naudojant</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Bendrinti naudojant „%s“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Programai reikalingas „Android Wear“ programos naujinys.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Ši programa veiks tik atnaujinus „Android Wear“ programą.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Atnaujinkite „Android Wear“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Įgal. „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Ši programa neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Įgalinti „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Užklausą pateikė „%1$s“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Gauti „Google Play“ paslaugų</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Gauti „Google Play“ paslaugų</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Netinkama paskyra</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Tinklo klaida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Norint naudoti programą būtina įdiegti „Google Play“ paslaugas.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">„Google Play“ paslaugų klaida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Nežinoma „Google Play“ paslaugų problema.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Jūsų įrenginys nepalaiko „Google Play“ paslaugų, kuriomis remiasi kai kurios programos. Jei reikia pagalbos, susisiekite su gamintoju.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">„Google Play“ paslaugos</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Atnaujinti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Atnaujinti „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Atidaryti telefonu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Prisij.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Prisij. naud. „Google“</string>
+</resources>

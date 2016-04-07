@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060000">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060001">
+        <item>Pay</item>
+        <item>Stores</item>
+        <item>Rewards</item>
+        <item>Settings</item>
+    </string-array>
+    <array name="APKTOOL_DUMMYVAL_0x7f060002" />
+    <string-array name="reward_NEW_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Congratulation soon you will get your Reward.</item>
+        <item></item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Brithday present</item>
+        <item>(available)</item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH_details">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Happy Birthday! Pick your Present.</item>
+        <item>For your free treat, simply tell barista your pick: Free Drink or delicious Muffin. Tap the icon below and scan presented image. For more details please check - More About Rewards section</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY">
+        <item>ic_rewards_earned_reward</item>
+        <item>Free Drink</item>
+        <item>(available)</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Congrats! You’ve collected ten Stars. The next one is on us.</item>
+        <item>For your free treat, simply tell your barista you have Free Drink Reward,– then tap the icon below and scan coupon code. For more details please check the More About Rewards Section.</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME">
+        <item>ic_rewards_earned_reward</item>
+        <item>Reward Available</item>
+        <item>(available)</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Congratulation you have received delicious Muffin.</item>
+        <item>For your free treat, simply tell your barista you have a delicious Muffin. Tap the icon below and scan presented image. For more details please check - More About Rewards Section.</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f06000a">
+        <item>"What is your mother's maiden name?"</item>
+        <item>What was your childhood nickname?</item>
+        <item>Who was your childhood hero?</item>
+    </string-array>
+</resources>

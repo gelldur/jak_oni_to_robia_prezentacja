@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.starbucks.cee" platformBuildVersionCode="21" platformBuildVersionName="5.0.1-1624448">
+    <uses-permission android:name="com.example.googlemaps.permission.MAPS_RECEIVE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <supports-screens android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/APKTOOL_DUMMYVAL_0x7f0d0090" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0e0071">
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/APKTOOL_DUMMYVAL_0x7f0b0003"/>
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/APKTOOL_DUMMYVAL_0x7f0d00db"/>
+        <activity android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="o.Yi" android:parentActivityName=".MainActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.starbucks.cee.MainActivity"/>
+        </activity>
+        <activity android:name="o.Xh" android:parentActivityName="o.Yi" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0e00a4">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Xo" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0e00a4"/>
+        <activity android:name="o.Xb" android:parentActivityName="o.Xh" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0e00a4">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Xh"/>
+        </activity>
+        <activity android:name="o.WY" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0e00a4"/>
+        <activity android:name="o.XJ" android:parentActivityName="o.Yi" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Yf" android:parentActivityName="o.Yi" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Yg" android:parentActivityName="o.Yf" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yf"/>
+        </activity>
+        <activity android:name="o.Yq" android:parentActivityName="o.Yf" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yf"/>
+        </activity>
+        <activity android:name="o.Yk" android:parentActivityName="o.Yi" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Yn" android:parentActivityName="o.Yk" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yk"/>
+        </activity>
+        <activity android:name="o.Yp" android:parentActivityName="o.Yk" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yk"/>
+        </activity>
+        <activity android:name="o.XP" android:parentActivityName="o.Yi" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Xq" android:parentActivityName="o.Yi" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Yi"/>
+        </activity>
+        <activity android:name="o.Xz" android:parentActivityName="o.Xq" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Xq"/>
+        </activity>
+        <activity android:name="o.Xd" android:parentActivityName="o.Xq" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Xq"/>
+        </activity>
+        <activity android:name="o.Xg" android:parentActivityName="o.Xd" android:screenOrientation="portrait">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="o.Xd"/>
+        </activity>
+        <activity android:name="com.payu.android.sdk.payment.ui.NewCardActivity"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.PaymentMethodListActivity"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.LocalCardCheckActivity" android:theme="@android:style/Theme.Translucent"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.LoginActivity"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.PaymentActivity" android:theme="@android:style/Theme.Translucent"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.AuthorizationActivity" android:theme="@android:style/Theme.Translucent"/>
+        <activity android:name="com.payu.android.sdk.payment.ui.StrongAuthorizationActivity"/>
+        <service android:exported="false" android:name="com.payu.android.sdk.payment.service.PaymentEntrypointService"/>
+    </application>
+</manifest>

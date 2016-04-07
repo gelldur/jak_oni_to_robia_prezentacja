@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">ຂຶ້ນເທິງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">ໂຕເລືອກອື່ນ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">ແລ້ວໆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">ເບິ່ງທັງຫມົດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">ເລືອກແອັບຯ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ສົ່ງການຊອກຫາ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">ແບ່ງປັນກັບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">ແບ່ງ​ປັນ​ກັບ​ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">ແອັບະ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">ແອັບຯ​ນີ້​ຈະ​ບໍ່​ສາ​ມາດ​ໃຊ້​ໄດ້​ຈົນ​ກວ່າ​ທ່ານ​ຈະ​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">​ອັບ​ເດດ Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">ຮ້ອງຂໍໂດຍ %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນໂທລະສັບຂອງທ່ານ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນແທັບເລັດຂອງທ່ານ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">ບັນຊີທີ່ເລືອກບໍ່ມີໃນອຸປະກອນນີ້. ກະລຸນາເລືອກບັນຊີອື່ນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">ບັນຊີບໍ່ຖືກຕ້ອງ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">ແອັບພລິເຄຊັນຕ້ອງ​ການນຳໃຊ້ Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">ຕ້ອງໃຊ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດເພື່ອໃຊ້ Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ເຄືອຂ່າຍຜິດພາດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ຕິດ​ຕັ້ງ​ບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">ມີປັນຫາທີ່ບໍ່ຄາດຄິດໃນບໍລິການ Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">ບໍລິການ Google Play ທີ່ບາງແອັບພລິເຄຊັນຂອງທ່ານຕ້ອງອາໄສນັ້ນ ບໍ່ຖືກຮອງຮັບໃນອຸປະກອນຂອງທ່ານ. ກະລຸນາຕິດຕໍ່ຜູ້ຜະລິດສຳລັບການແນະນຳ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">ບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">ອັບເດດ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດບໍລິການ Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">ອັບເດດບໍລິການ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">ເຂົ້າສູ່ລະບົບດ້ວຍ Google</string>
+</resources>

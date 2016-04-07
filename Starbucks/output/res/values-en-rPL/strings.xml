@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0054">Personal data consent</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0055">I hereby give my consent to have my personal data processed by AmRest Coffee sp. z o.o, plac Grunwaldzki 25–27, 50–365 Wroclaw, for marketing purposes (including marketing purposes of the contractors and the entities belonging to the AmRest capital group).</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0058">Marketing consent</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0059">I hereby give my consent to receive marketing information from AmRest Coffee sp. z o.o., plac Grunwaldzki 25–27, 50–365 Wroclaw at the provided electronic mail address and/or mobile telephone number.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d005d">The personal data provided by you will be processed by AmRest Coffee sp. z o.o., plac Grunwaldzki 25–27, 50–365 Wrocław, in order to carry out My Starbucks Rewards loyalty programme. Providing personal data is voluntary, yet necessary to participate on the Programme. You have the right to access your personal data, as well as to ask for its correction.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0062">\\d{2}\\-\\d{3}</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0069">Terms and Conditions</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d006a">Accept the terms and conditions.*</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b6">PLN</string>
+    <string name="reward_code">"Coupon Number:
+%1$s"</string>
+    <string name="reward_info">Expires on %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0127">Please note, if this agreement is not selected you lose the opportunity to receive the latest information about the Starbucks brand including new promotions and offers information.</string>
+</resources>

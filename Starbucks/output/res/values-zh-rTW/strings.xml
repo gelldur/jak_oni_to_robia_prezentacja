@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">瀏覽首頁</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s：%2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s - %2$s：%3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">向上瀏覽</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">更多選項</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">完成</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">查看全部</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">選擇應用程式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">清除查詢</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">搜尋查詢</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">搜尋</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">提交查詢</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">語音搜尋</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">選擇分享對象</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">與「%s」分享</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">有一個應用程式要求更新 Android Wear 應用程式。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">您必須更新 Android Wear 應用程式，這個應用程式才能運作。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">更新 Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">啟用 Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">您必須啟用 Google Play 服務，這個應用程式才能運作。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">啟用 Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">「%1$s」提出要求</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">取得 Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">您的手機並未安裝 Google Play 服務，所以無法執行這個應用程式。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">您的平板電腦並未安裝 Google Play 服務，所以無法執行這個應用程式。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">取得 Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">這個裝置上沒有您所指定的帳戶，請選擇其他帳戶。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">無效的帳戶</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">應用程式要求啟用 Google Play 服務。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">需要數據連線才能連上 Google Play 服務。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">網路錯誤</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">應用程式要求安裝 Google Play 服務。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">應用程式要求更新 Google Play 服務。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play 服務發生錯誤</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play 服務發生不明問題。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">您的裝置不支援部分應用程式所需的 Google Play 服務。如需協助，請與您的裝置製造商聯絡。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">您必須更新 Google Play 服務，才能執行這個應用程式。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">更新 Google Play 服務</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">在手機上開啟</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">登入</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">使用 Google 帳戶登入</string>
+</resources>

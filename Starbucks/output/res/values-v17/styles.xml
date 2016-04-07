@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0065" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0066" parent="@style/APKTOOL_DUMMYVAL_0x7f0e0041">
+        <item name="android:paddingStart">8.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0067" parent="@style/APKTOOL_DUMMYVAL_0x7f0e0042">
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0068" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0069" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006a" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006b" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/APKTOOL_DUMMYVAL_0x7f09000f</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006c" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006d" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/APKTOOL_DUMMYVAL_0x7f0a0048</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006e" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e006f" parent="@style/APKTOOL_DUMMYVAL_0x7f0e0048">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0070" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/APKTOOL_DUMMYVAL_0x7f09000f</item>
+    </style>
+</resources>

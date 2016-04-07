@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Движи се кон дома</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Движи се нагоре</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Повеќе опции</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Види ги сите</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Избери апликација</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Исчисти барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Пребарај барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Пребарај</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Поднеси барање</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Гласовно пребарување</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Сподели со</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Една апликација бара ажурирање на апликацијата Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Апликацијата нема да работи ако не ја ажурирате апликацијата Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Ажурирај Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Овозможи ги услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Апликацијата нема да работи ако не ги овозможите услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Овозможи ги услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Побарал %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Преземи ги услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Апликацијата нема да работи без услугите на Google Play, кои недостасуваат од вашиот телефон.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Апликацијата нема да работи без услугите на Google Play, кои недостасуваат од вашиот таблет.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Преземи ги услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Наведената сметка не постои на овој уред. Изберете друга сметка.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Неважечка сметка</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Апликацијата бара да се овозможат услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Потребно е поврзување податоци за да се поврзете со услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Мрежна грешка</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Апликацијата бара да се инсталираат услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Апликацијата бара да се ажурираат услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Грешка на услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Непознат проблем со услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Уредот не ги поддржува услугите на Google Play на кои се потпираат некои од вашите апликации. Контактирајте со производителот за помош.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Услуги на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Ажурирај</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Апликацијата нема да работи ако не ги ажурирате услугите на Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Ажурирај ги услугите на Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Отвори на телефонот</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Најави се</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Најави се со Google</string>
+</resources>

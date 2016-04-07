@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">נווט לדף הבית</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">‏%1$s‏, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">‏%1$s‏, %2$s‏, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">נווט למעלה</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">עוד אפשרויות</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">בוצע</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">ראה הכל</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">בחר אפליקציה</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">מחק שאילתה</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">שאילתת חיפוש</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">חפש</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">שלח שאילתה</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">חיפוש קולי</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">שתף עם</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">‏שתף עם %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">‏אפליקציה מסוימת דורשת עדכון לאפליקציה Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">‏אפליקציה זו לא תפעל עד שתעדכן את האפליקציה Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">‏עדכון Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">‏הפעל את שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">‏אפליקציה זו לא תעבוד אם לא תפעיל את שירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">‏הפעלת שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">התבקשה על ידי %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">‏קבל את שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטלפון שלך.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטאבלט שלך.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">‏קבל את שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">חשבון לא חוקי</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">‏קיימת אפליקציה המחייבת הפעלה של שירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">‏דרוש חיבור נתונים כדי להתחבר לשירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">שגיאת רשת.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">‏קיימת אפליקציה המחייבת התקנה של שירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">‏קיימת אפליקציה המחייבת עדכון עבור שירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">‏שגיאה בשירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">‏בעיה לא ידועה בשירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">‏שירותי Google Play, שחלק מהאפליקציות שלך מתבססות עליהם, אינם נתמכים על ידי המכשיר שברשותך. צור קשר עם היצרן לקבלת סיוע.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">‏שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">עדכן</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">‏אפליקציה זו לא תפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">‏עדכון שירותי Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">פתח בטלפון</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">היכנס</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">‏היכנס באמצעות Google</string>
+</resources>

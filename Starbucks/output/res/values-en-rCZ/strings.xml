@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0048">Reload section isn`t available on Czech Republic region.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0054">Personal data consent</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0055">I consent to the processing of personal data listed above in accordance with Act. No. 101/2000 Coll., on personal data protection (the “Act“) by AmRest Coffee s.r.o., located at Evropská 2591/33E, Praha 6, 160 00, IČ 281 67 694, registered in Commercial Register maintained by Municipal Court in Prague, C 130118 (the “Administrator”) for the organization of MyStarbucks Rewards loyalty program. I provide my personal data voluntarily, I am aware of the fact that I have the right to access my data, to correct them and to dismiss my approval in compliance with the Act.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0058">Marketing consent</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0059">I agree to receive from Administrator commercial and marketing information, notices and materials by e–mail. Consent may be withdrawn at any time.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d005d">The personal data provided by you will be processed by AmRest Coffee sp. z o.o., plac Grunwaldzki 25–27, 50–365 Wrocław, in order to carry out My Starbucks Rewards loyalty programme. Providing personal data is voluntary, yet necessary to participate on the Programme. You have the right to access your personal data, as well as to ask for its correction.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0062">\\d{3}\\-\\d{2}</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0069">Terms and Conditions</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d006a">Accept the terms and conditions.*</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b6">CZK</string>
+    <string name="reward_code">"Coupon Number:
+%1$s"</string>
+    <string name="reward_info">Expires on %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0127">Please note, if this agreement is not selected you lose the opportunity to receive the latest information about the Starbucks brand including new promotions and offers information.</string>
+</resources>

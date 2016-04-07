@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Ir a la pantalla de inicio</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Desplazarse hacia arriba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Más opciones</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Listo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Ver todo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Seleccionar una aplicación</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Borrar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Buscar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Enviar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Búsqueda por voz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Compartir con</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Compartir con %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Una aplicación necesita que Android Wear se actualice.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Esta aplicación no se ejecutará hasta que actualices Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Actualizar Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Habilitar servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Esta aplicación no funcionará si no habilitas los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Habilitar servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Solicitada por %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Descargar servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Descargar servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Cuenta no válida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Una aplicación requiere que se habiliten los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Se necesita una conexión de datos para establecer conexión con los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Error de red</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Una aplicación requiere la instalación de servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Una aplicación requiere una actualización de servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Error de servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Error desconocido relacionado con los servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Actualizar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Esta aplicación no se ejecutará si no actualizas los servicios de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Actualizar servicios de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Abrir en teléfono</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Iniciar sesión</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Iniciar sesión con Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0132">Comprar con Google</string>
+</resources>

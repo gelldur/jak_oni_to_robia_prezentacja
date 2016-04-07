@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Prejsť na plochu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Prejsť hore</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Ďalšie možnosti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Hotovo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Zobraziť všetko</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Zvoľte aplikáciu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Vymazať dopyt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Vyhľadávací dopyt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Hľadať</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Odoslať dopyt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Hlasové vyhľadávanie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Zdieľať pomocou</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Zdieľať pomocou %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Aktualizujte aplikáciu Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Povoliť služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Táto aplikácia bude fungovať až po povolení služieb Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Povoliť služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Vyžiadané aplikáciou %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Inštalovať služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Inštalovať služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Neplatný účet</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Aplikácia vyžaduje povolenie služieb Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Pripojenie k službám Google Play si vyžaduje dátové pripojenie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Chyba siete</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Aplikácia vyžaduje inštaláciu služieb Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Aplikácia vyžaduje aktualizáciu služieb Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Chyba služieb Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Neznámy problém so službami Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Aktualizovať</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Aktualizovať služby Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Otvoriť na telefóne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Prihlásiť sa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Prihlásiť sa do účtu Google</string>
+</resources>

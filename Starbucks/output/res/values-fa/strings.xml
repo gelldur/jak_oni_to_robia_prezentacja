@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">پیمایش به صفحه اصلی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">‏%1$s‏، %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">پیمایش به بالا</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">گزینه‌های بیشتر</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">انجام شد</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">مشاهده همه</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">انتخاب برنامه</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">پاک کردن عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ارسال عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">جستجوی شفاهی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">اشتراک‌گذاری با</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">‏اشتراک‌گذاری با %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">‏برنامه باید به برنامه Android Wear به‌روزرسانی شود.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">‏این برنامه اجرا نمی‌شود مگر اینکه برنامه Android Wear را به‌روزرسانی کنید.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">‏به‌روزرسانی Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">‏فعال کردن خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">‏تا زمانی‌که خدمات Google Play را فعال نکنید این برنامه کار نمی‌کند.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">‏فعال کردن خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">درخواست توسط %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">‏دریافت خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در تلفن شما وجود ندارد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در رایانهٔ لوحی شما وجود ندارد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">‏دریافت خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">حساب نامعتبر</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">‏برنامه‌ای نیاز به فعال شدن خدمات Google Play دارد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">‏برای اتصال به خدمات Google Play اتصال داده لازم است.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">خطای شبکه</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">‏برنامه‌ای نیاز به نصب خدمات Google Play دارد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">‏‫برنامه‌ای نیاز به یک به‌روزرسانی برای خدمات Google Play دارد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">‏خطا در خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">‏مشکل نامشخص در خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">‏خدمات Google Play، که برخی از برنامه‌های شما به آن وابسته است، توسط دستگاه شما پشتیبانی نمی‌شود. لطفاً برای دریافت کمک با سازنده تماس بگیرید.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">‏خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">به‌روزرسانی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">‏تا زمانی‌که خدمات Google Play را به‌روز نکنید این برنامه کار نمی‌کند.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">‏به‌روزرسانی خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">باز کردن در تلفن</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">ورود به سیستم</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">‏ورود به سیستم با Google‎</string>
+</resources>

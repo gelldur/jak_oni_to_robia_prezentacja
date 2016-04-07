@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Ugrás a főoldalra</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Felfelé mozgatás</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">További lehetőségek</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Kész</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Összes megtekintése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Válasszon ki egy alkalmazást</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Lekérdezés törlése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Keresési lekérdezés</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Keresés</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Lekérdezés küldése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Hangalapú keresés</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Megosztás a következővel:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Megosztás a következővel: %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Egy alkalmazás az Android Wear-alkalmazás frissítését igényli.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Ez az alkalmazás nem működik, amíg nem frissíti az Android Wear-alkalmazást.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Az Android Wear frissítése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Play-szolgáltatások aktiválása</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play-szolgáltatásokat.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play-szolgáltatások aktiválása</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">A(z) %1$s kérésére</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Play-szolgáltatások telepítése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Play-szolgáltatások telepítése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Érvénytelen fiók</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Hálózati hiba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Egy alkalmazás Google Play-szolgáltatások telepítését kéri.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Egy alkalmazás Google Play-szolgáltatások frissítését kéri.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play-szolgáltatások – hiba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Ismeretlen hiba a Google Play-szolgáltatásokban.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">A Google Play-szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play-szolgáltatások</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Frissítés</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Play-szolgáltatások frissítése</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Megnyitás a telefonon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Belépés</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google-bejelentkezés</string>
+</resources>

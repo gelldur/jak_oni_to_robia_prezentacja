@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Ana ekrana git</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Yukarı git</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Diğer seçenekler</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Tamamlandı</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Tümünü göster</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Bir uygulama seçin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Sorguyu temizle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Arama sorgusu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Ara</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Sorguyu gönder</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Sesli arama</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Şununla paylaş</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s ile paylaş</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Bir uygulama, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Android Wear uygulaması güncelleninceye kadar bu uygulama çalışmayacak.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">"Android Wear'ı Güncelle"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play hizmetlerini etkinleştir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play hizmetlerini etkinleştir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">İstekte bulunan: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play hizmetlerini edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play hizmetlerini edinin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Geçersiz Hesap</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">"Bir uygulama, Google Play Hizmetleri'nin etkin olmasını gerektiriyor."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Ağ Hatası</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Bir uygulama, Google Play hizmetlerinin yüklenmesini gerektiriyor.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play Hizmetleri hatası</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play hizmetleriyle ilgili bilinmeyen sorun.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Cihazınız, uygulamalarınızdan bazıları için gerekli olan Google Play hizmetlerini desteklemiyor. Lütfen yardım için üreticiyle iletişim kurun.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play hizmetleri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Güncelle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play hizmetlerini güncelle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Telefonda aç</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Oturum aç</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">"Google'da oturum aç"</string>
+</resources>

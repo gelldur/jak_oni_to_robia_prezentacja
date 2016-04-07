@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Idi na početnu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Idi gore</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Dodatne opcije</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Gotovo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Prikaži sve</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Odabir aplikacije</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Izbriši upit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Upit za pretraživanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Pretraživanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Pošalji upit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Glasovno pretraživanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Dijeljenje sa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Dijeljenje sa: %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Aplikacija zahtijeva ažuriranje na aplikaciju Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Ova aplikacija neće funkcionirati ako ne ažurirate aplikaciju Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Ažurirajte Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Omogući usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Ova aplikacija neće raditi ako ne omogućite usluge za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Omogući usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Zahtijeva aplikacija %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Preuzmi usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem telefonu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem tabletnom računalu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Preuzmi usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Nevažeći račun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Aplikacija zahtijeva da Usluge za Google Play budu omogućene.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Potrebna je podatkovna veza za povezivanje s uslugama Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Mrežna pogreška</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Aplikacija zahtijeva instaliranje Usluga za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Aplikacija zahtijeva ažuriranje Usluga za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Pogreška Usluga za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Nepoznata poteškoća s uslugama za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Usluge za Google Play, koje su potrebne za funkcioniranje nekih vaših aplikacija, nisu podržane na vašem uređaju. Pomoć potražite od proizvođača.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Ažuriranje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Ova se aplikacija neće pokrenuti ako ne ažurirate usluge za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Ažuriraj usluge za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Otvaranje na telefonu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Prijava</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Prijava uslugom Google</string>
+</resources>

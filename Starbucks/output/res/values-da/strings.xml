@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Naviger hjem</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Naviger op</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Flere muligheder</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Luk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Se alle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Vælg en app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Ryd forespørgslen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Søgeforespørgsel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Søg</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Indsend forespørgslen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Talesøgning</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Del med</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Del med %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">En applikation kræver en opdatering af appen Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Denne app kan ikke køre, medmindre du opdaterer appen Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Opdater Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Aktivér Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Denne app virker ikke, medmindre du aktiverer Google Play-tjenester.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Aktivér Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Anmodning fra %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Hent Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Denne app kan ikke køre uden Google Play-tjenester, som mangler på din telefon.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Denne app kan ikke køre uden Google Play-tjenester, som mangler på din tablet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Hent Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Den angivne konto findes ikke på denne enhed. Vælg en anden konto.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Ugyldig konto</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">En applikation kræver, at Google Play-tjenester aktiveres.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Netværksfejl</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">En applikation kræver, at Google Play-tjenester installeres.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">En applikation kræver, at Google Play-tjenester opdateres.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Fejl i Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Ukendt problem med Google Play-tjenester.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Opdater</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Opdater Google Play-tjenester</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Åbn på telefonen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Log ind</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Log ind med Google</string>
+</resources>

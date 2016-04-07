@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">முகப்பிற்கு வழிசெலுத்து</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">மேலே வழிசெலுத்து</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">மேலும் விருப்பங்கள்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">முடிந்தது</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">எல்லாம் காட்டு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">பயன்பாட்டைத் தேர்வுசெய்க</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">வினவலை அழி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">தேடல் வினவல்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">தேடு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">வினவலைச் சமர்ப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">குரல் தேடல்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">இதனுடன் பகிர்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s உடன் பகிர்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Android வியருக்குப் பயன்பாட்டைப் புதுப்பிக்க வேண்டும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Android வியருக்குப் புதுப்பிக்கும் வரை, பயன்பாடு செயல்படாது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android வியரைப் புதுப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play சேவைகளை இயக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">நீங்கள் Google Play சேவைகளை இயக்கும்வரை இந்தப் பயன்பாடு வேலை செய்யாது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play சேவைகளை இயக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s ஆல் கோரப்பட்டது</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play சேவைகளைப் பெறுக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">உங்கள் தொலைபேசியில் இல்லாத Google Play சேவைகள் இல்லாமல் இந்தப் பயன்பாடு இயங்காது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">உங்கள் டேப்லெட்டில் இல்லாத Google Play சேவைகள் இல்லாமல் இந்தப் பயன்பாடு இயங்காது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play சேவைகளைப் பெறுக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">இந்தச் சாதனத்தில் குறிப்பிடப்பட்ட கணக்கு இல்லை. வேறு கணக்கைத் தேர்வு செய்யவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">தவறான கணக்கு</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">பயன்பாடானது Google Play சேவைகள் இயக்கக் கேட்கிறது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play சேவைகளில் இணைக்க தரவு இணைப்பு தேவை.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">பிணைய பிழை</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">பயன்பாடானது Google Play சேவைகள் நிறுவ கேட்கிறது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">பயன்பாடானது Google Play சேவைகளுக்கான புதுப்பிப்பைக் கேட்கிறது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play சேவைகள் பிழை</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play சேவைகளில் அறியப்படாத சிக்கல் உள்ளது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">உங்கள் பயன்பாடுகளில் சில சார்ந்துள்ள Google Play சேவைகளை உங்கள் சாதனம் ஆதரிக்கவில்லை. உதவிக்கு உற்பத்தியாளரைத் தொடர்புகொள்ளவும்.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play சேவைகள்</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">புதுப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">நீங்கள் Google Play சேவைகளைப் புதுப்பிக்கும்வரை இந்தப் பயன்பாடு இயங்காது.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play சேவைகளைப் புதுப்பி</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">ஃபோனில் திற</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">உள்நுழைக</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google மூலம் உள்நுழை</string>
+</resources>

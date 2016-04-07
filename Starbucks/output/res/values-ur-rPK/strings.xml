@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">ہوم پر نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">اوپر نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">مزید اختیارات</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">ہو گیا</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">سبھی دیکھیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">ایک ایپ منتخب کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">استفسار صاف کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">استفسار تلاش کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">تلاش کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">استفسار جمع کرائیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">صوتی تلاش</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">اشتراک کریں مع</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">‏%s کے ساتھ اشتراک کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">‏ایک اپیلیکیشن کو Android Wear ایپ کیلئے ایک اپ ڈیٹ درکار ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">‏جب تک آپ Android Wear ایپ کو اپ ڈیٹ نہیں کر لیتے یہ ایپ نہیں چلے گی۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">‏Android Wear کو اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">‏Google Play سروسز فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">‏یہ ایپ تب تک کام نہیں کرے گی جب تک کہ آپ Google Play سروسز فعال نہیں کر لیتے ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">‏Google Play سروسز فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s کے ذریعے درخواست کی گئی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">‏Google Play سروسز حاصل کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">‏Google Play سروسز حاصل کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">غلط اکاؤنٹ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا فعال ہونا ضروری ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">‏Google Play سروسز سے مربوط ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">نیٹ ورک میں خرابی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا انسٹال ہونا ضروری ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">‏ایک ایپلیکیشن کیلئے Google Play سروسز کیلئے ایک اپ ڈیٹ ضروری ہے۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">‏Google Play سروسز کی خرابی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">‏Google Play سروسز کے ساتھ نامعلوم مسئلہ۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">‏Google Play سروسز، جن پر آپ کی کچھ ایپلیکیشنز انحصار کرتی ہیں، آپ کے آلہ کے ذریعے تعاون یافتہ نہیں ہے۔ براہ کرم مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">‏Google Play سروسز</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">‏یہ ایپ تب تک نہیں چلے گی جب تک کہ آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">فون پر کھولیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">سائن ان کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">‏Google کے ساتھ سائن ان کریں</string>
+</resources>

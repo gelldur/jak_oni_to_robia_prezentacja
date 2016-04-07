@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">မူလနေရာကို သွားရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s၊ %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s ၊ %2$s ၊ %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">အပေါ်သို့သွားရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">ပိုမိုရွေးချယ်စရာများ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">ပြီးဆုံးပါပြီ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">အားလုံးကို ကြည့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">အပလီကေးရှင်း တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">ရှာစရာ အချက်အလက်များ ရှင်းလင်းရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ရှာစရာ အချက်အလက်နေရာ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ရှာဖွေရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">အသံဖြင့် ရှာဖွေခြင်း</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">မျှဝေဖို့ ရွေးပါ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s ကို မျှဝေပါရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">အပလီကေးရှင်း တစ်ခုက အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံပေးရန်ကို တောင်းဆိုနေသည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">သင်က အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံ မပေးမချင်း ဒီapp အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">အန်ဒရွိုက် ဆောင်စရာကို မွမ်းမံရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">"သင်က Google ပလေး ဝန်ဆောင်မှုများ မဖွင့်သရွေ့  ဤapp အလုပ်လုပ်မည် မဟုတ်ပါ။"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s က တောင်းဆိုခဲ့သည်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google ပလေး ဝန်ဆောင်မှုများကို ရယူရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">ဤappသည် သင့်ဖုန်းထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">သင် တက်ဘလက် ထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google ပလေး ဝန်ဆောင်မှုများကို ရယူပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">ဤကိရိယာမှာ ဖေါ်ပြပါ အကောင့်မရှိပါ။ ကျေးဇူးပြု၍ အခြား အကောင့်ကို ရွေးပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">မမှန်သည့် အကောင့်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">အပလီကေးှရင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို ဖွင့်ပေးရန် လိုအပ်သည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google ပလေး ဝန်ဆောင်မှုများသို့ ဆက်သွယ်ရန် ဒေတာ ချိတ်ဆက်မှု လိုအပ်သည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ကွန်ရက် အမှား</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုများကို တပ်ဆင်ပေးရန် လိုသည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို မွမ်းမံပေးရန် လိုသည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google ပလေး ဝန်ဆောင်မှုများ အမှား</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google ပလေး ဝန်ဆောင်မှုတွင် မသိရ ပြဿနာ ရှိနေသည်။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">"သင်၏ အပလီကေးရှင်း အချို့က အားကိုးကြသည့် Google ပလေး ဝန်ဆောင်မှုများကို  သင်၏ ကိရိယာက မပံ့ပိုးပါ။ အကူအညီရယူရန် ကျေးဇူးပြုပြီး ထုတ်လုပ်သူကို ဆက်သွယ်ပါ။"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google ပလေး ဝန်ဆောင်မှုများ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">မွမ်းမံရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">သင်သည် Google ပလေး ဝန်ဆောင်မှုများကို မမွမ်းမံသရွေ့ ဤ app အလုပ် လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google ပလေး ၀န်ဆောင်မှုများကို မွမ်းမံရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">ဖုန်းထဲ ဖွင့်ရန်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">လင်မှတ်ထိုး ဝင်</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google ဖြင့် လက်မှတ်ထို ဝင်</string>
+</resources>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010000" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010001" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010002" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010003" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010004">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0009" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a000a" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a000b" value="2" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010005">
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a000c" value="0x00000020" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a000d" value="0x00000004" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a000e" value="0x00000000" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a000f" value="0x00000010" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0010" value="0x00000002" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0011" value="0x00000008" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0012" value="0x00000001" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010006" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010007" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010008" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010009" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000a" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000d" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000e" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01000f" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010010" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010011" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010012" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010013" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010014" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010015" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010016" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010017" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010018" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010019" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001a" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001d" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001e" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01001f" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010020" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010021" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010022" format="reference|boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010023" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010024" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010025" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010026" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010027" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010028" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010029" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002a" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002b" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002c">
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a000e" value="0x00000000" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0013" value="0x00000001" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0014" value="0x00000004" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a0015" value="0x00000002" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002d" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002e">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a000e" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0016" value="2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0017" value="1" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f01002f" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010030" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010031">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a000a" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a000e" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0018" value="4" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0019" value="2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a001a" value="3" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010032" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010033" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010034" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010035" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010036" format="float" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010037" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010038" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010039" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003a" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003b" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003c" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003d" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003e" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01003f" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010040" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010041">
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a001b" value="0x00000002" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a001c" value="0x00000008" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a001d" value="0x00000001" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a001e" value="0x00000000" />
+        <flag name="APKTOOL_DUMMYVAL_0x7f0a001f" value="0x00000004" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010042" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010043" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010044" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010045" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010046">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0020" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0021" value="0" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010047" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010048" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010049" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004a" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004b" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004d" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004e" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01004f" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010050" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010051" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010052" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010053" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010054" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010055">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0022" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0023" value="1" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010056" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010057" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010058" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010059" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005a" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005c" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005d" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005e" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01005f" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010060" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010061" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010062" format="boolean" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010063" format="dimension|fraction" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010064" format="dimension|fraction" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010065" format="dimension|fraction" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010066" format="dimension|fraction" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010067" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010068" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010069" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006a" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006d" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006e" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01006f" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010070" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010071" format="dimension">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0024" value="0" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f010072" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010073" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010074" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010075" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010076" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010077" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010078" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010079" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007a" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007d" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007e" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01007f" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010080" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010081" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010082" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010083" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010084" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010085" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010086" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010087" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010088" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010089" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008a" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008b" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008d" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008e" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01008f" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010090" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010091" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010092" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010093" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010094" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010095" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010096" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010097" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010098" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f010099" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009a" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009b" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009c" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009d" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009e" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f01009f" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a0" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a1" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a2" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a3" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a4" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a5" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a6" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a7" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a8" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100a9" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100aa" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ab" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ac" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ad" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ae" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100af" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b0" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b1" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b2" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b3" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b4" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b5" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b6" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b7" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b8" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100b9" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ba" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100bb" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100bc" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100bd" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100be" format="string" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100bf" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c0" format="dimension" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c1">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0025" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0026" value="1" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c2">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0027" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0028" value="0" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0029" value="2" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c3" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c4">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002a" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002b" value="2" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c5" format="dimension">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0024" value="-2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002c" value="-1" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c6" format="dimension">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0024" value="-2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002c" value="-1" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c7">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002d" value="3" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002e" value="2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a002f" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0030" value="4" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c8">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0020" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0031" value="2" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0032" value="3" />
+    </attr>
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100c9" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ca" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100cb" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100cc" format="reference" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100cd" format="reference|color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100ce" format="color" />
+    <attr name="APKTOOL_DUMMYVAL_0x7f0100cf">
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0020" value="1" />
+        <enum name="APKTOOL_DUMMYVAL_0x7f0a0032" value="2" />
+    </attr>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060000">
+        <item>kobieta</item>
+        <item>mężczyzna</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060001">
+        <item>Zapłać</item>
+        <item>Kawiarnie</item>
+        <item>Nagrody</item>
+        <item>Ustawienia</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060002">
+        <item>dolnośląskie</item>
+        <item>kujawsko-pomorskie</item>
+        <item>lubelskie</item>
+        <item>lubuskie</item>
+        <item>łódzkie</item>
+        <item>małopolskie</item>
+        <item>mazowieckie</item>
+        <item>opolskie</item>
+        <item>podkarpackie</item>
+        <item>podlaskie</item>
+        <item>pomorskie</item>
+        <item>śląskie</item>
+        <item>świętokrzyskie</item>
+        <item>warmińsko-mazurskie</item>
+        <item>wielkopolskie</item>
+        <item>zachodniopomorskie</item>
+    </string-array>
+    <string-array name="reward_NEW_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujemy! Wkrótce otrzymasz nową nagrodę w prezencie.</item>
+        <item></item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Urodzinowy prezent</item>
+        <item>(dostępny)</item>
+    </string-array>
+    <string-array name="reward_REWARD_BIRTH_details">
+        <item>ic_rewards_birthday_trimmed</item>
+        <item>Wszystkiego Najlepszego! Odbierz swój prezent.</item>
+        <item>Aby odebrać nagrodę, poinformuj baristę o chęci odebrania prezentu - pysznego Muffina lub Napoju. Dotknij poniższego symbolu i zeskanuj kod. Chcesz dowiedzieć się więcej, sprawdź sekcję – Więcej o Nagrodach.</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY">
+        <item>ic_rewards_earned_reward</item>
+        <item>Darmowy napój</item>
+        <item>(dostępny)</item>
+    </string-array>
+    <string-array name="reward_REWARD_LOYALTY_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujemy! Otrzymujesz napój w prezencie.</item>
+        <item>Aby odebrać darmowy napój, poinformuj baristę o chęci skorzystania z nagrody. Dotknij poniższego symbolu i zeskanuj obrazek. Chcesz dowiedzieć się więcej sprawdź sekcję Więcej o Nagrodach.</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME">
+        <item>ic_rewards_earned_reward</item>
+        <item>Nagroda Dostępna</item>
+        <item>(dostępny)</item>
+    </string-array>
+    <string-array name="reward_REWARD_WELCOME_details">
+        <item>ic_rewards_earned_reward</item>
+        <item>Gratulujemy! Otrzymujesz Muffin w prezencie.</item>
+        <item>Aby odebrać nagrodę, poinformuj baristę o chęci skorzystania z oferty. Dotknij poniższego symbolu i zeskanuj kod. Chcesz dowiedzieć się więcej sprawdź sekcje – Więcej o Nagrodach</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f06000a">
+        <item>Jakie jest nazwisko panieńskie Twojej mamy?</item>
+        <item>Jakie było Twoje przezwisko z dzieciństwa?</item>
+        <item>Kim był Twój bohater z dzieciństwa?</item>
+    </string-array>
+    <integer-array name="APKTOOL_DUMMYVAL_0x7f06000b">
+        <item>50</item>
+        <item>80</item>
+        <item>150</item>
+        <item>200</item>
+    </integer-array>
+</resources>

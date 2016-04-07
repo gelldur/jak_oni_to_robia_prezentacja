@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">นำทางไปหน้าแรก</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">นำทางขึ้น</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">ตัวเลือกอื่น</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">เสร็จสิ้น</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">ดูทั้งหมด</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">เลือกแอป</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">ล้างข้อความค้นหา</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ข้อความค้นหา</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ค้นหา</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ส่งข้อความค้นหา</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">ค้นหาด้วยเสียง</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">แชร์กับ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">แชร์กับ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">แอปพลิเคชันรายการหนึ่งต้องการให้อัปเดตแอป Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">แอปนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตแอป Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">อัปเดต Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">เปิดใช้งานบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">เปิดใช้งานบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">ขอโดย %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">รับบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">รับบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">บัญชีไม่ถูกต้อง</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">แอปพลิเคชันหนึ่งจำเป็นต้องมีบริการ Google Play เพื่อเปิดใช้งาน</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">แอปพลิเคชันหนึ่งจำเป็นต้องมีการติดตั้งบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">แอปพลิเคชันหนึ่งจำเป็นต้องมีการอัปเดตสำหรับบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">ปัญหาที่ไม่รู้จักของบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">บริการ Google Play ซึ่งใช้งานในบางแอปพลิเคชัน ไม่ได้รับการสนับสนุนโดยอุปกรณ์ของคุณ โปรดติดต่อผู้ผลิตเพื่อขอรับความช่วยเหลือ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">บริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">อัปเดต</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">อัปเดตบริการ Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">เปิดบนโทรศัพท์</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">ลงชื่อใช้</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">ลงชื่อเข้าใช้ด้วย Google</string>
+</resources>

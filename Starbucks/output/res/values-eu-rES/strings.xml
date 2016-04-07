@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Joan orri nagusira</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Joan gora</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Aukera gehiago</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Eginda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Ikusi guztiak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Aukeratu aplikazio bat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Garbitu kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Bilaketa-kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Bilatu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Bidali kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Ahots bidezko bilaketa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Partekatu hauekin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Partekatu %s erabiltzailearekin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Aplikazio batek Android Wear eguneratzea eskatzen du.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Aplikazio hau ez da exekutatuko Android Wear aplikazioa eguneratu ezean.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Eguneratu Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Gaitu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Aplikazio honek ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Gaitu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s aplikazioak eskatu du</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Lortu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Aplikazio hau ez da exekutatuko Google Play zerbitzurik gabe, baina horiek ez daude telefonoan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Aplikazio hau ez da exekutatuko Google Play zerbitzurik gabe, baina horiek ez daude tabletan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Lortu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Zehaztutako kontua ez dago gailuan. Aukeratu beste kontu bat.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Kontu baliogabea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Aplikazio batek Google Play zerbitzuak gaituta egotea eskatzen du.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Datu-konexioa behar da Google Play zerbitzuetara konektatzeko.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Sareko errorea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Aplikazio batek Google Play zerbitzuak instalatzea eskatzen du.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Aplikazio batek Google Play zerbitzuak eguneratzea eskatzen du.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play zerbitzuen errorea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play zerbitzuekin arazo ezezaguna dago.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Aplikazioetako batzuek behar dituzten Google Play zerbitzuak ez dira zure gailuan onartzen. Laguntza lortzeko, jarri fabrikatzailearen harremanetan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Eguneratu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Aplikazio hau ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Eguneratu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Ireki telefonoan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Hasi saioa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Hasi saioa Google-n</string>
+</resources>

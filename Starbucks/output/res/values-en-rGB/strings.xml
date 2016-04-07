@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigate home</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navigate up</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">More options</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Done</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">See all</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Choose an app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Clear query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Search query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Submit query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Voice search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Share with</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Share with %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">An application requires an update to the Android Wear app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">"This app won't run unless you update the Android Wear app."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Update Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">"This app won't work unless you enable Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Requested by %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Get Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Get Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Invalid Account</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">An application requires Google Play services to be enabled.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">A data connection is required to connect to Google Play services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Network Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">An application requires installation of Google Play services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">An application requires an update for Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play services error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Unknown issue with Google Play services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">"This app won't run unless you update Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Update Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Open on phone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Sign in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Sign in with Google</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_plusone_medium_off_client"> \u001e</item>
+    <item type="drawable" name="ic_plusone_small_off_client"> \u001f</item>
+    <item type="drawable" name="ic_plusone_standard_off_client">\u001f </item>
+    <item type="drawable" name="ic_plusone_tall_off_client">  </item>
+</resources>

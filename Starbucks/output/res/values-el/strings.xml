@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Πλοήγηση προς τα επάνω</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Περισσότερες επιλογές</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Τέλος</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Προβολή όλων</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Διαγραφή ερωτήματος</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Ερώτημα αναζήτησης</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Αναζήτηση</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Υποβολή ερωτήματος</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Φωνητική αναζήτηση</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Κοινή χρήση με</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Κοινή χρήση με %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Μια εφαρμογή απαιτεί την ενημέρωση της εφαρμογής Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Αυτή η εφαρμογή δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Ενημέρωση Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Ενεργοπ. υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Αυτή η εφαρμογή δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Υποβλήθηκε αίτημα από την εφαρμογή %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Λήψη υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Λήψη υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Μη έγκυρος λογαριασμός</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Σφάλμα δικτύου</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Άγνωστο πρόβλημα με τις υπηρεσίες Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Υπηρεσίες Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Ενημέρωση</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Αυτή η εφαρμογή θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Άνοιγμα στο τηλέφωνο</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Σύνδεση</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Συνδεθείτε στο Google</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Үйгө багыттоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Жогору</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Көбүрөөк мүмкүнчүлүктөр</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Даяр</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Бардыгын көрүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Колдонмо тандоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Талаптарды тазалоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Издөө талаптары</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Издөө</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Талап жөнөтүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Үн аркылуу издөө</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Бөлүшүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s аркылуу бөлүшүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Колдонмону Android Тагынма колдонмосуна жаңыртуу керек.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Android Тагынма колдонмосу жаңыртылмайынча бул колдонмо иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Тагынманы жаңыртуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play кызматтарын иштетүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Бул колдонмо Google Play кызматтары иштетилмейинче иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play кызматтарын иштетүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s сурап жатат</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play кызматтарын алуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Бул колдонмо Google Play кызматтарысыз иштебейт, алар сиздин телефонуңузда жок.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Бул колдонмо Google Play кызматтарысыз иштебейт, алар сиздин планшетиңизде жок.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play кызматтарын алуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Көрсөтүлгөн каттоо эсеби бул түзмөктө жок. Башка каттоо эсебин тандаңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Каттоо эсеби жараксыз</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Колдонмону иштетүү үчүн, Google Play Кызматтарын иштетүү керек.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play Кызматтарына туташуу үчүн, дайындарды өткөрүүчү туташуу талап кылынат.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Тармак катасы</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Колдонмону иштетүү үчүн, Google Play кызматтарын орнотуу керек.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Колдонмону иштетүү үчүн, Google Play Кызматтарын жаңыртуу керек.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play кызматтарынын катасы</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play кызматтарында келип чыккан белгисиз көйгөй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Айрым колдонмолоруңузга байланышкан Google Play кызматтары түзмөгүңүздө колдоого алынбайт. Жардам алуу үчүн өндүрүүчүгө кайрылыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play кызматтары</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Жаңыртуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Бул колдонмо Google Play кызматтары жаңыртылмайынча иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play кызматтарын жаңыртуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Телефондо ачык</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Кирүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google менен кирүү</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="stars_info">
+        <item quantity="other">%1$s Stars.</item>
+        <item quantity="one">%1$s Star.</item>
+        <item quantity="two">%1$s Stars.</item>
+        <item quantity="few">%1$s Stars.</item>
+        <item quantity="many">%1$s Stars.</item>
+    </plurals>
+    <plurals name="stars_info_2">
+        <item quantity="other">%1$s Stars Until Reward</item>
+        <item quantity="one">%1$s Star Until Reward</item>
+        <item quantity="two">%1$s Stars Until Reward</item>
+        <item quantity="few">%1$s Stars Until Reward</item>
+        <item quantity="many">%1$s Stars Until Reward</item>
+    </plurals>
+</resources>

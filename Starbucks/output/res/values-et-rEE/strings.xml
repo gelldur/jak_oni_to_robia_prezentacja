@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigeerimine avaekraanile</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navigeerimine üles</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Rohkem valikuid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Valmis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Kuva kõik</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Valige rakendus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Päringu tühistamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Otsingupäring</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Otsing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Päringu esitamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Häälotsing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Jagamine:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Jagamine kasutajaga %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Rakendus nõuab rakenduse Android Wear värskendamist.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Rakendus töötab ainult siis, kui värskendate rakendust Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Rakenduse Android Wear värskendamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Lubage Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">See rakendus ei tööta, kui te ei luba Google Play teenuseid.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Lubage Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Taotluse esitas %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Hankige Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie telefonis pole.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Hankige Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Vale konto</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Rakenduse kasutamiseks peavad olema lubatud Google Play teenused.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Võrgu viga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Rakenduse kasutamiseks peavad olema installitud Google Play teenused.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Rakenduse kasutamiseks tuleb värskendada Google Play teenuseid.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Viga Google Play teenustes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play teenuste tundmatu probleem.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Teie seade ei toeta Google Play teenuseid, millele mõni teie rakendustest toetub. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play teenused</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Värskenda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Seda rakendust ei saa käitada, kui te ei värskenda Google Play teenuseid.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Värskendage Google Play teenuseid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Ava telefonis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Logi sisse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">"Logi sisse Google'iga"</string>
+</resources>

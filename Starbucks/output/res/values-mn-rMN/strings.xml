@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Нүүр хуудас руу шилжих</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Дээш шилжих</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Нэмэлт сонголтууд</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Дууссан</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Бүгдийг харах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Апп сонгох</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Асуулгыг цэвэрлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Хайх асуулга</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Хайх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Асуулгыг илгээх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Дуут хайлт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Хуваалцах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s-тай хуваалцах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Аппликешнийг Андройд Зүүсгэл апп болгон шинэчлэх шаардлагатай.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Андройд Зүүсгэл апп-г шинэчлэхээс нааш энэ апп ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Андройд Зүүсгэлийг шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Та Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s хүсэлт гаргасан</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play үйлчилгээ авах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Таны утсанд байхгүй байгаа Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Таны таблетэд байхгүй Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play үйлчилгээ авах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Буруу акаунт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Аппликешн Google Наадаан Үйлчилгээг идэвхжүүлсэн байхыг шаардана.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Сүлжээний алдаа</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Аппликешн Google Наадаан Үйлчилгээг суулгахыг шаардана.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Аппликешн Google Наадаан Үйлчилгээг шинэчлэхийг шаардана.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play үйлчилгээтэй холбоотой тодорхойгүй алдаа.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Таны зарим аппликешнүүдийн хамаардаг Google Play үйлчилгээ таны төхөөрөмжид дэмжигдэхгүй байна. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play үйлчилгээ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Та Google Play үйлчилгээг шинэчлэхгүй бол энэ апп ажиллах боломжгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Утсан дээр нээх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Нэвтрэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google-р нэвтрэх:</string>
+</resources>

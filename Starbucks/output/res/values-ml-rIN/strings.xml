@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">ഹോമിലേക്ക് നാവിഗേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">മുകളിലേക്ക് നാവിഗേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">കൂടുതല്‍ ഓപ്‌ഷനുകള്‍</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">പൂർത്തിയാക്കി</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">എല്ലാം കാണുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">ഒരു അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">അന്വേഷണം മായ്‌ക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">തിരയൽ അന്വേഷണം</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">തിരയൽ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">അന്വേഷണം സമർപ്പിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">വോയ്‌സ് തിരയൽ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">ഇവരുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s എന്നതുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">ഒരു അപ്ലിക്കേഷന് Android Wear അപ്ലിക്കേഷനിലേക്ക് അപ്‌ഡേറ്റ് ആവശ്യമാണ്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">നിങ്ങൾ Android Wear അപ്ലിക്കേഷൻ അപ്‌ഡേറ്റുചെയ്യാത്തിടത്തോളം ഈ അപ്ലിക്കേഷൻ പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കിയില്ലെങ്കിൽ ഈ അപ്ലിക്കേഷൻ പ്രവർത്തിയ്ക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s അഭ്യർത്ഥിച്ചത്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play സേവനങ്ങൾ നേടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">നിങ്ങളുടെ ഫോണിൽ നിന്നും നഷ്‌ടപ്പെട്ട Google Play സേവനങ്ങളില്ലാതെ ഈ അപ്ലിക്കേഷൻ പ്രവർത്തിയ്ക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">നിങ്ങളുടെ ടാബ്‌‌ലെറ്റിൽ നിന്നും നഷ്‌ടപ്പെട്ട Google Play സേവനങ്ങളില്ലാതെ ഈ അപ്ലിക്കേഷൻ പ്രവർത്തിയ്ക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play സേവനങ്ങൾ നേടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">വ്യക്തമാക്കിയ അക്കൗണ്ട് ഈ ഉപകരണത്തിൽ നിലവിലില്ല. മറ്റൊരു അക്കൗണ്ട് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">അക്കൗണ്ട് അസാധുവാണ്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">ഒരു അപ്ലിക്കേഷന് Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play സേവനങ്ങളിലേയ്ക്ക് കണക്റ്റുചെയ്യുന്നതിന് ഒരു ഡാറ്റ കണക്ഷൻ ആവശ്യമാണ്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">നെറ്റ്‌വർക്ക് പിശക്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">ഒരു അപ്ലിക്കേഷന് Google Play സേവനങ്ങൾ ഇൻസ്‌റ്റാളുചെയ്യേണ്ടതുണ്ട്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">ഒരു അപ്ലിക്കേഷന് Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യേണ്ടതുണ്ട്.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play സേവനങ്ങളിലെ പിശക്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play സേവനങ്ങളിലെ അജ്ഞാത പ്രശ്‌നം.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">നിങ്ങളുടെ ചില അപ്ലിക്കേഷനുകൾ ആശ്രയിക്കുന്ന Google Play സേവനങ്ങളെ നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്ക്കുന്നില്ല. സഹായത്തിനായി നിർമ്മാതാവിനെ ബന്ധപ്പെടുക.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play സേവനങ്ങൾ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">നിങ്ങൾ Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തില്ലെങ്കിൽ ഈ അപ്ലിക്കേഷൻ പ്രവർത്തിക്കില്ല.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">ഫോണിൽ തുറക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക</string>
+</resources>

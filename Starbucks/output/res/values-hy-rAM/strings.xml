@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Ուղղվել տուն</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Ուղղվել վերև</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Այլ ընտրանքներ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Կատարված է</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Տեսնել բոլորը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Ընտրել ծրագիր</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Մաքրել հարցումը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Որոնման հարցում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Որոնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Ուղարկել հարցումը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Ձայնային որոնում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Տարածել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Տարածել ըստ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Ծրագիրը պահանջում է թարմացնել Android Wear-ը:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Այս ծրագիրը չի գործարկվի, եթե չթարմացնեք Android Wear-ը:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Թարմացնել Android Wear-ը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Միացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Այս ծրագիրը չի աշխատի, եթե դուք չմիացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Միացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s-ի հարցմամբ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Տեղադրել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր հեռախոսում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր գրասալիկում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Տեղադրեք Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Հաշիվն անվավեր է</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Ինչ-որ հավելված պահանջում է միացնել Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Ցանցի սխալ կա</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Ինչ-որ հավելված պահանջում է տեղադրել Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Ինչ-որ հավելված պահանջում է թարմացնել Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play ծառայությունների սխալ կա</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Անհայտ խնդիր՝ Google Play ծառայություններում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play ծառայությունները, որոնց ապավինում են ձեր ծրագրերից որոշները, չեն աջակցվում ձեր սարքի կողմից: Խնդրում ենք կապվել արտադրողի հետ օգնության համար:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play ծառայություններ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Նորացնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Այս ծրագիրը չի գործարկվի, եթե դուք չնորացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Նորացրեք Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Բացել հեռախոսում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Մուտք գործել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Մուտք գործեք Google-ով</string>
+</resources>

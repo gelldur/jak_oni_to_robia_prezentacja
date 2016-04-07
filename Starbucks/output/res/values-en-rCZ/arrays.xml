@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f060002">
+        <item>Hlavní město Praha</item>
+        <item>Jihočeský kraj</item>
+        <item>Jihomoravský kraj</item>
+        <item>Karlovarský kraj</item>
+        <item>Královéhradecký kraj</item>
+        <item>Liberecký kraj</item>
+        <item>Moravskoslezský kraj</item>
+        <item>Olomoucký kraj</item>
+        <item>Pardubický kraj</item>
+        <item>Plzeňský kraj</item>
+        <item>Středočeský kraj</item>
+        <item>Ústecký kraj</item>
+        <item>kraj Vysočina</item>
+        <item>Zlínský kraj</item>
+    </string-array>
+    <integer-array name="APKTOOL_DUMMYVAL_0x7f06000b">
+        <item>300</item>
+        <item>500</item>
+        <item>700</item>
+        <item>1200</item>
+    </integer-array>
+</resources>

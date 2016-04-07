@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">التنقل إلى الشاشة الرئيسية</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s، %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s، %2$s، %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">التنقل إلى أعلى</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">خيارات إضافية</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">تم</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">عرض الكل</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">اختيار تطبيق</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">محو طلب البحث</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">طلب البحث</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">بحث</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">إرسال طلب البحث</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">البحث الصوتي</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">مشاركة مع</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">‏مشاركة مع %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">‏يتطلب أحد التطبيقات تحديثًا لتطبيق Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث تطبيق Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">‏تحديث Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">‏تمكين خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">‏لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">‏تمكين خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">تم الطلب عن طريق %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">‏الحصول على خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">‏الحصول على خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">حساب غير صالح</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">‏يتطلب أحد التطبيقات تمكين خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">خطأ في الشبكة</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">‏يتطلب أحد التطبيقات تثبيت خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">‏يتطلب أحد التطبيقات تحديث خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">‏خطأ في خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">‏حدثت مشكلة غير معروفة في خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">‏خدمات Google Play التي تستجيب لها بعض تطبيقاتك لا تعمل على جهازك. يُرجى الاتصال بجهة التصنيع للحصول على المساعدة.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">‏خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">تحديث</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">‏تحديث خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">فتح على الهاتف</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">تسجيل الدخول</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">‏تسجيل الدخول باستخدام Google</string>
+</resources>

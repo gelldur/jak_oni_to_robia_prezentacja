@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Vai alla home page</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Vai in alto</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Altre opzioni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Fine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Visualizza tutte</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">"Scegli un'applicazione"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Cancella query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Query di ricerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Invia query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Ricerca vocale</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Condividi con</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Condividi con %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">"Un'applicazione richiede l'aggiornamento dell'app Android Wear."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Questa app funzionerà solo dopo avere aggiornato Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Aggiorna Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Attiva Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">"L'app non funzionerà se non attivi Google Play Services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Attiva Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Richiesta da %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Installa Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">"L'app non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">"L'app non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Installa Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">"L'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Account non valido</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">"Un'applicazione richiede l'attivazione di Google Play Services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">È necessaria una connessione dati per connettersi a Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Errore di rete</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">"Un'applicazione richiede l'installazione di Google Play Services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">"Un'applicazione richiede un aggiornamento di Google Play Services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Errore Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Problema sconosciuto con Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">La piattaforma Google Play Services, su cui sono basate alcune delle tue applicazioni, non è supportata dal dispositivo in uso. Per assistenza, contatta il produttore.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Aggiorna</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">"L'app non funzionerà se non aggiorni Google Play Services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Aggiorna Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Apri sul telefono</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Accedi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Accedi con Google</string>
+</resources>

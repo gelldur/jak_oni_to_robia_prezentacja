@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0029" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017c">
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUMMYVAL_0x7f01007b</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUMMYVAL_0x7f01007c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUMMYVAL_0x7f01007d</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUMMYVAL_0x7f01007e</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e002b" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017d">
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUMMYVAL_0x7f01007b</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUMMYVAL_0x7f01007c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUMMYVAL_0x7f01007d</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUMMYVAL_0x7f01007e</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e002e" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017e">
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUMMYVAL_0x7f01007b</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUMMYVAL_0x7f01007c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUMMYVAL_0x7f01007d</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUMMYVAL_0x7f01007e</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e0030" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017f">
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUMMYVAL_0x7f01007b</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUMMYVAL_0x7f01007c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUMMYVAL_0x7f01007d</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUMMYVAL_0x7f01007e</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0e017c" parent="@style/APKTOOL_DUMMYVAL_0x7f0e0178" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0e017d" parent="@style/APKTOOL_DUMMYVAL_0x7f0e0179" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0e017e" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017a" />
+    <style name="APKTOOL_DUMMYVAL_0x7f0e017f" parent="@style/APKTOOL_DUMMYVAL_0x7f0e017b" />
+</resources>

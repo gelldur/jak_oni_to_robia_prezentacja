@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">მთავარზე ნავიგაცია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">ზემოთ ნავიგაცია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">მეტი ვარიანტები</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">დასრულდა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">ყველას ნახვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">აპის არჩევა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">მოთხოვნის გასუფთავება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ძიების მოთხოვნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ძიება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">მოთხოვნის გადაგზავნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">ხმოვანი ძიება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">გაზიარება:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s-თან გაზიარება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">აპლიკაცია საჭიროებს Android Wear აპის განახლებას.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">ეს აპი ვერ გაეშვება, თუ Android Wear აპს არ განაახლებთ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear-ის განახლება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play სერვისების გააქტიურება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">ეს აპი არ იმუშავებს, თუ არ გაააქტიურებთ Google Play სერვისებს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play სერვისების გააქტიურება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">მომთხოვნი: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play სერვისების მიღება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play სერვისების მიღება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">ანგარიში არასწორია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">აპლიკაცია საჭიროებს გააქტიურებულ Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play Services-თან დასაკავშირებლად მონაცემთა გადაცემა აუცილებელია.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ქსელის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">აპლიკაცია საჭიროება Google Play Services-ის ინსტალაციას.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">აპლიკაცია საჭიროებს Google Play Services-ის განახლებას.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play Services-ის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play სერვისებთან დაკავშირებით უცნობი შეფერხება წარმოიშვა.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play სერვისები, რაც თქვენს ზოგიერთ აპს ჭირდება, თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play სერვისები</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">განახლება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">ეს აპი ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play სერვისების განახლება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">ტელეფონზე გახსნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">შესვლა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google-ით შესვლა</string>
+</resources>

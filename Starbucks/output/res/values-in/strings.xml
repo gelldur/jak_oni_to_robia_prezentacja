@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigasi ke beranda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navigasi naik</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Opsi lain</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Selesai</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Lihat semua</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Pilih aplikasi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Hapus kueri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Kueri penelusuran</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Telusuri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Kirim kueri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Penelusuran suara</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Bagikan dengan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Bagikan dengan %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Aplikasi memerlukan pembaruan ke aplikasi Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Perbarui Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Aktifkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Aktifkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Diminta oleh %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Dapatkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Dapatkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Akun Tidak Valid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Kesalahan Jaringan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Aplikasi mewajibkan pemasangan layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Kesalahan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Perbarui</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Perbarui layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Buka di ponsel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Masuk dengan Google</string>
+</resources>

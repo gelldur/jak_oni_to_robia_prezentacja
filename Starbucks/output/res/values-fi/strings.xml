@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Siirry etusivulle</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Siirry ylös</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Lisää</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Valmis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Näytä kaikki</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Valitse sovellus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Tyhjennä kysely</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Hakulauseke</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Haku</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Lähetä kysely</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Puhehaku</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Jakaminen:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Jakaminen: %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Android Wear -sovellus täytyy päivittää toisen sovelluksen takia.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Tämä sovellus ei toimi, ellet päivitä Android Wear -sovellusta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Päivitä Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Ota Google Play -palv. käyttöön</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Tämä sovellus ei toimi, ellet ota Google Play -palveluita käyttöön.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Ota Google Play -palvelut käyttöön</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Pyynnön teki %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Asenna Google Play -palvelut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat puhelimesta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Asenna Google Play -palvelut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Tili ei kelpaa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Ota käyttöön Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play -palveluiden käyttöön tarvitaan tietoliikenneyhteys.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Verkkovirhe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Asenna Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Päivitä Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Virhe Google Play -palveluissa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Tuntematon ongelma käytettäessä Google Play -palveluita.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play -palveluita, joita osa sovelluksistasi käyttää, ei tueta laitteellasi. Pyydä ohjeita laitteen valmistajalta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play -palvelut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Päivitä</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Tämä sovellus ei toimi, ellet päivitä Google Play -palveluita.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Päivitä Google Play -palvelut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Avaa puhelimessa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Kirjaudu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Kirjaudu Google-tiliin</string>
+</resources>

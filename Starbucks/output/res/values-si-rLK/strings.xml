@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">ගෙදරට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">ඉහලට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">තවත් විකල්ප</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">අවසාන වූ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">සියල්ල බලන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">යෙදුමක් තෝරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">විමසුම හිස් කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">සෙවුම් විමසුම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">සෙවීම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">විමසුම යොමු කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">හඬ සෙවීම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">සමඟ බෙදාගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s සමඟ බෙදාගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Android Wear යෙදුම යාවත්කාලීන කිරීමට යෙදුමක් අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Android Wear යෙදුම ඔබ යාවත්කාලීන කළේ නැති නම් මෙම යෙදුම ධාවනය කළ නොහැක.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">ඔබ Google Play සේවාවන් සබල කරන්නේ නම් මිස මෙම යෙදුම වැඩ නොකරනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s විසින් ඉල්ලා ඇත</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">ඔබගේ දුරකථනයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">ඔබගේ ටැබ්ලටයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවේ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">නියම කර දැක්වූ ගිණුම මෙම උපාංගය මත නොපවතී. කරුණාකර වෙනත් ගිණුමක් තෝරන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">වලංගු නොවන ගිණුම</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">යෙදුමකට Google Play සේවාවන් සබලව තිබීම අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play සේවාවන් වෙත සබැඳීමට දත්ත සබැඳුමක් අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ජාල දෝෂය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">යෙදුමකට Google Play සේවා ස්ථාපනයක් අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">යෙදුමකට Google Play සේවාවන් සඳහා යාවත්කාලීනයක් අවශ්‍යය.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play සේවා දෝෂය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play සේවාවන් සමග නොදන්නා ගැටලුවක්.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">ඔබගේ සමහර යෙදුම් විශ්වාසය තබන, Google Play සේවාවන්ට, ඔබගේ උපාංගය සහාය නොදක්වයි. කරුණාකර සහාය සඳහා නිෂ්පාදකයා අමතන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play සේවා</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">ඔබ Google Play සේවා යාවත්කාලීන කරන්නේ නම් මිස මෙම යෙදුම ධාවනය නොවේ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play සේවාවන් යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">පිවිසෙන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google සමගින් පුරනය වන්න</string>
+</resources>

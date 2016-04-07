@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">मुख्‍यपृष्‍ठ नेव्‍हिगेट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">वर नेव्‍हिगेट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">अधिक पर्याय</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">पूर्ण झाले</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">सर्व पहा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">एक अ‍ॅप निवडा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">क्‍वेरी स्‍पष्‍ट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">शोध क्वेरी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">शोध</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">क्वेरी सबमिट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">व्हॉइस शोध</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">यांच्यासह सामायिक करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s सह सामायिक करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">अनुप्रयोगास Android Wear अॅप अद्यतनित करण्याची आवश्यकता आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">आपण Android Wear अॅप अद्यतनित केल्याशिवाय हा अॅप कार्य करणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play सेवा सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">आपण Google Play सेवा सक्षम केल्याशिवाय हा अॅप कार्य करणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play सेवा सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s द्वारे विनंती केली</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play सेवा मिळवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">हा अॅप Google Play सेवांशिवाय चालणार नाही, ज्या आपल्या फोनवरून गहाळ झाल्या आहेत.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">हा अॅप Google Play सेवांशिवाय चालणार नाही, ज्या आपल्या टॅब्लेटवरून गहाळ आहेत.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play सेवा मिळवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">निर्दिष्ट केलेले खाते या डिव्हाइसवर अस्तित्वात नाही. कृपया एक भिन्न खाते निवडा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">अवैध खाते</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">अनुप्रयोगासाठी Google Play सेवा सक्षम केलेल्या असणे आवश्यक आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play सेवांशी कनेक्ट होण्यासाठी डेटा कनेक्शन आवश्यक आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">नेटवर्क त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">अनुप्रयोगासाठी Google Play सेवांची स्थापना आवश्यक आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">अनुप्रयोगासाठी Google Play सेवांचे अद्यतन आवश्यक आहे.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play सेवा त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play सेवांसह अज्ञात समस्या.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">आपले काही अनुप्रयोग ज्यावर अवलंबून आहेत अशी, Google Play सेवा, आपल्या डिव्हाइसद्वारे समर्थित नाही. कृपया सहाय्यासाठी निर्मात्याशी संपर्क साधा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play सेवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">आपण Google Play सेवा अद्यतनित केल्याशिवाय हा अॅप चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play सेवा अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">फोनवर उघडा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">साइन इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google सह साइन इन करा</string>
+</resources>

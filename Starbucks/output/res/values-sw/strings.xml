@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Nenda mwanzo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Nenda juu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Chaguo zaidi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Nimemaliza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Angalia zote</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Chagua programu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Futa hoja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Hoja ya utafutaji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Tafuta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Wasilisha hoja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Tafuta kwa kutamka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Shiriki na:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Shiriki na %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Programu inahitaji sasisho kwa programu ya Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Programu hii haitaendeshwa usiposasisha programu ya Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Sasisha Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Wezesha huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Wezesha huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Imeombwa na %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Pata huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Pata huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Akaunti Batili</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Hitilafu ya Mtandao</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Hitilafu kwenye huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Sasisha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Sasisha huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Fungua kwenye simu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Ingia</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Ingia ukitumia Google</string>
+</resources>

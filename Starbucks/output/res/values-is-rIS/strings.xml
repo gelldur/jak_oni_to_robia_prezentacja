@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Fara heim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Fara upp</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Fleiri valkostir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Lokið</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Sjá allt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Veldu forrit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Hreinsa fyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Leitarfyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Leita</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Senda fyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Raddleit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Deila með</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Deila með %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Forrit krefst uppfærslu á Android Wear forritinu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Þetta forrit getur ekki keyrt nema þú uppfærir Android Wear forritið.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Uppfærðu Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Virkja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Þetta forrit virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Virkja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s bað um</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Sækja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Þetta forrit getur ekki keyrt án þjónustu Google Play, sem vantar í símann þinn.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Þetta forrit getur ekki keyrt án þjónustu Google Play, sem vantar í spjaldtölvuna þína.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Sækja þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Tilgreindur reikningur er ekki til staðar í þessu tæki. Veldu annan reikning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Ógildur reikningur</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Forrit krefst þess að þjónusta Google Play sé virk.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Gagnatengingar er krafist til að tengjast þjónustu Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Netvilla</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Forrit krefst þess að þjónusta Google Play sé sett upp.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Forrit krefst þess að þjónusta Google Play sé uppfærð.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Villa í þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Óþekkt vandamál með þjónustu Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Þjónusta Google Play, sem sum forrit reiða sig á, er ekki studd í tækinu þínu. Hafðu samband við framleiðandann til að fá aðstoð.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Þjónusta Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Uppfæra</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Þetta forrit getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Uppfæra þjónustu Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Opna í símanum</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Skrá inn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Skrá inn með Google</string>
+</resources>

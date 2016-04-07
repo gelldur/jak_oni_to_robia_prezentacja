@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Перейти на головний</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Перейти вгору</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Інші опції</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Переглянути всі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Вибрати програму</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Очистити запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Пошуковий запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Надіслати запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Голосовий пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Надіслати через</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Надіслати через %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Для роботи додатка потрібно оновити Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Цей додаток запуститься, лише коли ви оновите Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Оновити Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Увімкнути сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Цей додаток не працюватиме, доки ви не ввімкнете сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Увімкніть сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Запит від додатка %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Установити сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Ця програма не запуститься без Google Play Послуг, яких немає у вашому телефоні.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Ця програма не запуститься без Google Play Послуг, яких немає на вашому планшетному ПК.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Установіть сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Указаний обліковий запис не існує на цьому пристрої. Виберіть інший обліковий запис.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Недійсний обліковий запис</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Щоб додаток працював, потрібно ввімкнути сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Для під’єднання до сервісів Google Play потрібне з’єднання з мережею.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Помилка мережі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Щоб додаток працював, потрібно встановити сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Щоб додаток працював, потрібно оновити сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Помилка сервісів Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Невідома проблема із сервісами Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Ваш пристрій не підтримує Сервіси Google Play, від яких залежить робота деяких програм. Зверніться по допомогу до виробника.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Оновити</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Цей додаток не запуститься, доки ви не оновите сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Оновіть сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Відкрити на телефоні</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Увійти</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Увійти в обл.запис Google</string>
+</resources>

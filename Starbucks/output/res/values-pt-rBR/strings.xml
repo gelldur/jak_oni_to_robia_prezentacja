@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Um app exige uma atualização do app Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Este app só funciona com uma versão atualizada do app Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Atualizar o Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Ativar o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Este app só funciona com o Google Play Services ativado.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Ative o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Solicitado por %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Instalar o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Este app não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Este app não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Instale o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Conta inválida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Um app requer a ativação do Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Erro na rede</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Um app requer a instalação do Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Um app requer a atualização do Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Erro do Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Problema desconhecido com o Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">O Google Play Services, necessário para alguns dos apps, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Atualizar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Este app só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Atualize o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Abrir no smartphone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Login</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Fazer login com o Google</string>
+</resources>

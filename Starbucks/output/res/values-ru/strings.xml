@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Перейти на главный экран</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Перейти вверх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Другие параметры</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Показать все</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Выбрать приложение</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Удалить запрос</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Поисковый запрос</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Поиск</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Отправить запрос</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Голосовой поиск</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Открыть доступ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Открыть доступ пользователю %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Требуется обновить приложение Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Для работы этого приложения требуется обновить Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Обновить Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Включить</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Включите Сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Источник запроса: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Установить</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Установите Сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Этого аккаунта нет на устройстве. Выберите другой.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Недействительный аккаунт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Для работы приложения требуется включить сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Для работы с Google Play требуется подключение к сети.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Ошибка сети</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Для работы приложения требуется установить сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Для работы приложения требуется обновить сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Ошибка сервисов Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Неизвестная ошибка с Сервисами Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Обновить</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Обновите Сервисы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Открыть на телефоне</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Войти</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Войти в аккаунт Google</string>
+</resources>

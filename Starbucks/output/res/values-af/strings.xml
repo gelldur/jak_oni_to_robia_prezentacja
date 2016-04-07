@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigeer tuis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navigeer op</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Nog opsies</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Klaar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Sien alles</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">"Kies 'n program"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Vee navraag uit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Soeknavraag</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Soek</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Dien navraag in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Stemsoektog</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Deel met</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Deel met %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">"'n Program vereis 'n opdatering na die Android Wear-program."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Hierdie program sal nie werk tensy jy die Android Wear-program opdateer nie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Dateer Android Wear op</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Aktiveer Google Play-dienste</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Hierdie program sal nie werk tensy jy Google Play-dienste aktiveer nie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Aktiveer Google Play-dienste</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Versoek deur %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Kry Google Play-dienste</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou tablet is nie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Kry Google Play-dienste</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">"Die gespesifiseerde rekening bestaan nie op hierdie toestel nie. Kies asseblief 'n ander rekening."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Ongeldige rekening</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">"'n Program vereis dat Google Play Services geaktiveer word."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">"'n Dataverbinding is nodig om aan Google Play-dienste te koppel."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Netwerkfout</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">"'n Program vereis dat Google Play Services geïnstalleer word."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">"'n Program vereis dat Google Play Services opgedateer word."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play Services-fout</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Onbekende probleem met Google Play-dienste.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play-dienste, waarop sommige van jou programme staatmaak, werk nie met jou toestel nie. Kontak asseblief die vervaardiger vir bystand.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play-dienste</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Dateer op</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Hierdie program sal nie loop nie, tensy jy Google Play-dienste opdateer.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Dateer Google Play-dienste op</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Maak op foon oop</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Meld aan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Meld aan met Google</string>
+</resources>

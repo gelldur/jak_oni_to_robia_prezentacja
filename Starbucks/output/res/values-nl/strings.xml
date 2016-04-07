@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigeren naar startpositie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Omhoog navigeren</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Meer opties</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Gereed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Alles weergeven</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Een app selecteren</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Zoekopdracht wissen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Zoekopdracht</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Zoeken</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Zoekopdracht verzenden</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Gesproken zoekopdracht</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Delen met</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Delen met %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Er is een update van de Android Wear-app vereist voor een bepaalde app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Deze app wordt niet uitgevoerd, tenzij u de Android Wear-app bijwerkt.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear bijwerken</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play-services inschak.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Deze app werkt niet, tenzij u Google Play-services inschakelt.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play-services inschakelen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Aangevraagd door %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play-services ophalen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw telefoon.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play-services ophalen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Ongeldig account</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Google Play-services moet zijn ingeschakeld voor een app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Netwerkfout</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Google Play-services moet zijn geïnstalleerd voor een app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Google Play-services moet worden geüpdatet voor een app.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Fout met Google Play-services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Onbekend probleem met Google Play-services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Google Play-services, dat vereist is voor een aantal van uw applicaties, wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play-services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Updaten</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Deze app kan niet worden uitgevoerd, tenzij u Google Play-services updatet.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play-services updaten</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Openen op telefoon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Inloggen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Inloggen met Google</string>
+</resources>

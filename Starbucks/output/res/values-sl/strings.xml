@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Krmarjenje domov</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Krmarjenje navzgor</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Več možnosti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Končano</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Pokaži vse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Izbira aplikacije</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Izbris poizvedbe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Iskalna poizvedba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Pošiljanje poizvedbe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Glasovno iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Deljenje z</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Deljenje z:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Aplikacija zahteva posodobitev aplikacije Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Ta aplikacije ne deluje, če ne posodobite aplikacije Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Posodobitev aplikacije Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Omogočite storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Aplikacija ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Omogočite storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Zahteva aplikacije %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Namestite storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v telefonu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Namestite storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Neveljaven račun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Omrežna napaka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Za delovanje aplikacije morate namestiti storitve Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Napaka storitev Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Neznana težava s storitvami Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Vaša naprava na podpira storitev Google Play, ki jih potrebujejo nekatere od vaših aplikacij. Za pomoč se obrnite na izdelovalca.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Posodobi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Ta aplikacija ne deluje, če ne posodobite storitev Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Posodobite storitve Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Odpiranje v telefonu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Prijava</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Prijavite se v Google</string>
+</resources>

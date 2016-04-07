@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="pay_photo"> \u000c\u0009</item>
+    <item type="drawable" name="rewards_cup">\u001e \u0009</item>
+    <item type="drawable" name="rewards_cup_lid">"  \u0009"</item>
+    <item type="drawable" name="rewards_cup_lid_bottom">\u000c </item>
+    <item type="drawable" name="rewards_cup_lid_shadow">　 \u0009</item>
+    <item type="drawable" name="rewards_photo">　 \u0009</item>
+    <item type="drawable" name="settings_photo">\u001c \u0009</item>
+    <item type="drawable" name="abc_ab_share_pack_holo_dark"> \u001c</item>
+    <item type="drawable" name="abc_ab_share_pack_holo_light"> \u000c</item>
+    <item type="drawable" name="abc_btn_check_to_on_mtrl_000">  \u0009</item>
+    <item type="drawable" name="abc_btn_check_to_on_mtrl_015">  </item>
+    <item type="drawable" name="abc_btn_radio_to_on_mtrl_000">\u0009 \u0009</item>
+    <item type="drawable" name="abc_btn_radio_to_on_mtrl_015">  </item>
+    <item type="drawable" name="abc_btn_switch_to_on_mtrl_00001"> \u000b</item>
+    <item type="drawable" name="abc_btn_switch_to_on_mtrl_00012"> \u001e\u0009</item>
+    <item type="drawable" name="abc_cab_background_top_mtrl_alpha"> \u001e\u0009</item>
+    <item type="drawable" name="abc_ic_ab_back_mtrl_am_alpha">\u001e \u0009</item>
+    <item type="drawable" name="abc_ic_clear_mtrl_alpha">\u001d \u0009</item>
+    <item type="drawable" name="abc_ic_commit_search_api_mtrl_alpha"> \u001c\u0009</item>
+    <item type="drawable" name="abc_ic_go_search_api_mtrl_alpha">\u001d\u001d\u0009</item>
+    <item type="drawable" name="abc_ic_menu_copy_mtrl_am_alpha">\u001d </item>
+    <item type="drawable" name="abc_ic_menu_cut_mtrl_alpha">\u001c \u0009</item>
+    <item type="drawable" name="abc_ic_menu_moreoverflow_mtrl_alpha">\u001c\u000b\u0009</item>
+    <item type="drawable" name="abc_ic_menu_paste_mtrl_am_alpha">\u001d \u0009</item>
+    <item type="drawable" name="abc_ic_menu_selectall_mtrl_alpha"> \u001f</item>
+    <item type="drawable" name="abc_ic_menu_share_mtrl_alpha"> \u001e</item>
+    <item type="drawable" name="abc_ic_search_api_mtrl_alpha">\u0009 \u0009</item>
+    <item type="drawable" name="abc_ic_voice_search_api_mtrl_alpha"> \u001f</item>
+    <item type="drawable" name="abc_list_divider_mtrl_alpha">\u001c\u001d</item>
+    <item type="drawable" name="abc_list_focused_holo">" \u000c\u0009"</item>
+    <item type="drawable" name="abc_list_longpressed_holo"> \u000b</item>
+    <item type="drawable" name="abc_list_pressed_holo_dark">\u000c \u0009</item>
+    <item type="drawable" name="abc_list_pressed_holo_light">　\u000b</item>
+    <item type="drawable" name="abc_list_selector_disabled_holo_dark"> \u0009\u0009</item>
+    <item type="drawable" name="abc_list_selector_disabled_holo_light">  \u0009</item>
+    <item type="drawable" name="abc_menu_hardkey_panel_mtrl_mult">\u001e \u0009</item>
+    <item type="drawable" name="abc_popup_background_mtrl_mult">  </item>
+    <item type="drawable" name="abc_spinner_mtrl_am_alpha">\u001d\u000b\u0009</item>
+    <item type="drawable" name="abc_switch_track_mtrl_alpha">  </item>
+    <item type="drawable" name="abc_tab_indicator_mtrl_alpha">\u000c\u001c</item>
+    <item type="drawable" name="abc_textfield_activated_mtrl_alpha"> \u000b\u0009</item>
+    <item type="drawable" name="abc_textfield_default_mtrl_alpha">\u001d\u001c\u0009</item>
+    <item type="drawable" name="abc_textfield_search_activated_mtrl_alpha">"  \u0009"</item>
+    <item type="drawable" name="abc_textfield_search_default_mtrl_alpha">\u000c\u000b</item>
+    <item type="drawable" name="common_signin_btn_icon_disabled_dark"> \u000b</item>
+    <item type="drawable" name="common_signin_btn_icon_disabled_focus_dark">\u000b\u000c</item>
+    <item type="drawable" name="common_signin_btn_icon_disabled_focus_light">  \u0009</item>
+    <item type="drawable" name="common_signin_btn_icon_disabled_light">\u001d\u000c</item>
+    <item type="drawable" name="common_signin_btn_icon_focus_dark">  </item>
+    <item type="drawable" name="common_signin_btn_icon_focus_light">"  "</item>
+    <item type="drawable" name="common_signin_btn_icon_normal_dark">  </item>
+    <item type="drawable" name="common_signin_btn_icon_normal_light">" 　"</item>
+    <item type="drawable" name="common_signin_btn_icon_pressed_dark">　 \u0009</item>
+    <item type="drawable" name="common_signin_btn_icon_pressed_light">\u001e </item>
+    <item type="drawable" name="common_signin_btn_text_disabled_dark">\u001f </item>
+    <item type="drawable" name="common_signin_btn_text_disabled_focus_dark">  \u0009</item>
+    <item type="drawable" name="common_signin_btn_text_disabled_focus_light">\u0009\u001f\u0009</item>
+    <item type="drawable" name="common_signin_btn_text_disabled_light">\u001d\u000b</item>
+    <item type="drawable" name="common_signin_btn_text_focus_dark">  \u0009</item>
+    <item type="drawable" name="common_signin_btn_text_focus_light">  \u0009</item>
+    <item type="drawable" name="common_signin_btn_text_normal_dark">\u001e　\u0009</item>
+    <item type="drawable" name="common_signin_btn_text_normal_light">\u000c\u001d\u0009</item>
+    <item type="drawable" name="common_signin_btn_text_pressed_dark">  </item>
+    <item type="drawable" name="common_signin_btn_text_pressed_light"> </item>
+    <item type="drawable" name="ic_action_bar_icon">  </item>
+    <item type="drawable" name="ic_chevron_right_widget">  \u0009</item>
+    <item type="drawable" name="ic_launcher">"  \u0009"</item>
+    <item type="drawable" name="ic_plusone_medium_off_client">  \u0009</item>
+    <item type="drawable" name="ic_plusone_small_off_client"> </item>
+    <item type="drawable" name="ic_plusone_standard_off_client">  </item>
+    <item type="drawable" name="ic_plusone_tall_off_client">\u001f \u0009</item>
+    <item type="drawable" name="powered_by_google_dark"> 　\u0009</item>
+    <item type="drawable" name="powered_by_google_light">\u000c \u0009</item>
+</resources>

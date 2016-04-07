@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Zulazulela ekhaya</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Zulazulela phezulu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Izinketho eziningi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Kwenziwe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Buka konke</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Khetha uhlelo lokusebenza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Sula inkinga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Umbuzo wosesho</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Sesha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Hambisa umbuzo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Ukusesha ngezwi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Yabelana no-</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Yabelana no-%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Uhlelo lokusebenza ludinga ukubuyekezelwa kuhlelo lokusebenza le-Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kokuthi ubuyekeze uhlelo lokusebenza le-Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Buyekeza i-Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Nika amandla amasevisi e-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi unike amandla amasevisi e-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Nika amandla amasevisi e-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Icelwe yi-%1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Thola amasevisi e-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho efonini yakho.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho kuthebulethi yakho.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Thola amasevisi e-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">I-Akhawunti ecacisiwe ayikho kule divayisi. Sicela ukhethe i-akhawunti ehlukile.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">I-Akhawunti engavumelekile</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">Uhlelo lokusebenza ludinga amasevisi we-Google Play ukuze anikwe amandla.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Kudingeka ukuxhumeka kwedatha ukuze kuxhunyekwe kumasevisi we-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Iphutha lenethiwekhi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">Uhlelo lokusebenza ludinga ukufakwa kwamasevisi we-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">Uhlelo lokusebenza ludinga isibuyekezo samasevisi we-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Iphutha lamasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Indaba engaziwa yamasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Amasevisi we-Google Play, okungukuthi ezinye izinhlelo zakho zithembele kuwo, awasekelwe yidivayisi yakho. Sicela uxhumane nomkhiqizi ukuze uthole usizo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Amasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Isibuyekezo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi ubuyekeze amasevisi e-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Buyekeza amasevisi e-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Vula kufoni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Ngena ngemvume</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Ngena ngemvume nge-Google</string>
+</resources>

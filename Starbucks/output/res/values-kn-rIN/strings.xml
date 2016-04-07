@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">ಮುಖಪುಟವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">ಮುಗಿದಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">ಹುಡುಕು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">%s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">Android Wear ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಿಸಲು ಅಪ್ಲಿಕೇಶನ್ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">ನೀವು Android Wear ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಿಸದ ಹೊರತು ಈ ಅಪ್ಲಿಕೇಶನ್ ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Android Wear ನವೀಕರಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು ಈ ಅಪ್ಲಿಕೇಶನ್ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">%1$s ನಿಂದ ವಿನಂತಿಸಲಾಗಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">ನಿಮ್ಮ ಫೋನ್‍‍ನಲ್ಲಿ ಕಾಣೆಯಾಗಿರುವ ಈ ಅಪ್ಲಿಕೇಶನ್, Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಚಾಲನೆಯಾಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">"ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‍ನಲ್ಲಿ ಕಾಣೆಯಾಗಿರುವ ಈ ಅಪ್ಲಿಕೇಶನ್,  Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಚಾಲನೆಯಾಗುವುದಿಲ್ಲ."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">ಈ ಸಾಧನದಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾದ ಖಾತೆಯು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇರೆಯ ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">ಅಮಾನ್ಯವಾದ ಖಾತೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">ಅಪ್ಲಿಕೇಶನ್‌ಗೆ Google Play ಸೇವೆಗಳು ಸಕ್ರಿಯಗೊಂಡಿರಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Google Play ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಡೇಟಾ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">ನೆಟ್‍ವರ್ಕ್ ದೋಷ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">ಅಪ್ಲಿಕೇಶನ್‌ಗೆ Google Play ಸೇವೆಗಳು ಸ್ಥಾಪನೆಯಾಗಿರಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">ಅಪ್ಲಿಕೇಶನ್‌ಗೆ Google Play ಸೇವೆಗಳ ನವೀಕರಣದ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Google Play ಸೇವೆಗಳ ದೋಷ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Google Play ಸೇವೆಗಳಿಗೆ ಅಜ್ಞಾತ ಸಮಸ್ಯೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">ನಿಮ್ಮ ಕೆಲವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಅವಂಬಿಸಿರುವಂತಹ Google Play ಸೇವೆಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನವು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ನೆರವಿಗಾಗಿ ಉತ್ಪಾದಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Google Play ಸೇವೆಗಳು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">ನವೀಕರಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು ಈ ಅಪ್ಲಿಕೇಶನ್ ಚಾಲನೆಯಾಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">ಸೈನ್ ಇನ್ ಮಾಡು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Google ಜೊತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+</resources>

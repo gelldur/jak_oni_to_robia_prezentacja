@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0002">Navigați la ecranul de pornire</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0003">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0004">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0005">Navigați în sus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0006">Mai multe opțiuni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0007">Terminat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0008">Afișați-le pe toate</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0009">Alegeți o aplicaţie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000a">Ștergeți interogarea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000b">Interogare de căutare</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000c">Căutați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000d">Trimiteți interogarea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000e">Căutare vocală</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d000f">Trimiteți la</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0010">Trimiteți la %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0098">O aplicație necesită actualizarea aplicației Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d0099">Această aplicație nu va rula dacă nu actualizați aplicația Android Wear.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009a">Actualizați Android Wear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009b">Activaţi Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009c">Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009d">Activaţi Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009e">Solicitată de %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d009f">Obţineţi Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a0">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe telefon.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a1">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe tabletă.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a2">Descărcaţi Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a3">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a4">Cont nevalid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a5">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a6">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a7">Eroare de reţea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a8">O aplicație necesită instalarea serviciilor Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00a9">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00aa">Eroare a serviciilor Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ab">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ac">Gadgetul nu acceptă serviciile Google Play, pe care se bazează unele dintre aplicații. Pentru asistență, contactați producătorul gadgetului.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ad">Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00ae">Actualizaţi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00af">Această aplicaţie nu poate rula decât dacă actualizaţi Servicii Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b0">Actualizaţi Servicii Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b1">Deschideți pe telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b2">Conectați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0d00b3">Conectați-vă cu Google</string>
+</resources>
