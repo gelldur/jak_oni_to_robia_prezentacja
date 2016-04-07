@@ -1,0 +1,1 @@
+../apktool d "Starbucks CEE_v1.0.1_apkpure.com.apk" -o ./output
