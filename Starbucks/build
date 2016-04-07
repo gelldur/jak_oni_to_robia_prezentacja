@@ -1,0 +1,4 @@
+../apktool b ./output -o ./Starbucks.apk
+echo "Keystore is testest"
+
+jarsigner -keystore test.keystore -verbose Starbucks.apk test
